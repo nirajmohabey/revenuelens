@@ -1,6 +1,6 @@
 # Current US market verification
 
-Executed locally on November 23, 2026 against the frozen November 17, 2026 Census release for October 2026. This document applies to the primary US report, not the separate historical invoice lab. Local source and model verification do not establish remote publication.
+Executed locally on November 23, 2026 against the frozen November 17, 2026 Census release for October 2026. This document applies to the primary US report, not the separate historical invoice lab. The private deployment is separately confirmed by the platform; [LIVE_VERIFICATION.md](LIVE_VERIFICATION.md) records its access and live-test status.
 
 ## Recorded evidence
 
@@ -32,4 +32,4 @@ The latest total SA level is **748,220 USD millions**, or **$748.22 billion** be
 
 The [official Census release](https://www.census.gov/retail/marts/www/marts_current.pdf) was inspected independently of the payload. It identifies the same date, period, nominal adjustment basis, headline amount, and sampling-error qualification. The raw local source files and their hashes preserve this evidence after the changing current-release URL advances.
 
-These checks do not establish real inflation-adjusted growth, causal sector drivers, tested differences across industries, current retailer customer behavior, or a successful hosted deployment. The report remains a locally verified snapshot.
+These checks do not establish real inflation-adjusted growth, causal sector drivers, tested differences across industries, or current retailer customer behavior. Platform confirmation establishes the separate private deployment. Full interactive live-browser verification awaits authorized ChatGPT sign-in; local source/model checks do not establish every hosted interaction.

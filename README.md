@@ -4,7 +4,7 @@ RevenueLens investigates **current US retail and food services sales** using off
 
 The current snapshot is the **November 17, 2026 Census release for October 2026**. The latest seasonally adjusted headline is **$748.2 billion**, with official month-over-month change **+0.2% ±0.4 percentage points at 90% confidence**. That interval includes zero, so the release does not establish a nonzero monthly change at that confidence level. The observations are **nominal**, not price-adjusted. [Official release](https://www.census.gov/retail/marts/www/marts_current.pdf), [Census Retail Trade program](https://www.census.gov/retail/index.html).
 
-**Release status:** this is a local release. Remote publication has not completed; no live hosted release is claimed. Source and browser verification are separate from publication.
+**Release status:** platform deployment is confirmed at the [private RevenueLens site](https://revenuelens-retail-intelligence.flowerycider4.chatgpt.site). Authorized ChatGPT sign-in is required. Full interactive live-browser verification awaits authentication; deployment confirmation does not imply every hosted interaction has been tested. See [live verification status](docs/LIVE_VERIFICATION.md).
 
 ## Open the included application
 
@@ -77,7 +77,7 @@ artifacts/           Reproducible validation outputs and small analytical export
 tests/               Offline analytical fixtures and browser-model checks
 docs/                Current and historical methods, definitions, and limits
 scripts/             Dependency-free build, validation, and local server
-.openai/hosting.json  Configured Sites identity; not evidence of publication
+.openai/hosting.json  Sites identity and static deployment configuration
 ```
 
 ## Verification and limits
@@ -86,4 +86,4 @@ scripts/             Dependency-free build, validation, and local server
 
 The current source cannot support retailer order counts, customer retention, cancellation matching, firm profit, campaign lift, or regional market estimates. Nominal growth does not establish real volume growth. Neither experience measures a causal intervention effect or a global quality percentile. [Release scope and tradeoffs](docs/RELEASE_SCOPE.md) records the implementation boundary.
 
-`dist/` is the static deployment artifact after successful build and checks. The local server binds only to loopback. Remote publication has not completed and remains a separate authorized deployment; a currency or data-source edit does not itself publish the application. Keep credentials out of source and exports.
+`dist/` is the static deployment artifact after successful build and checks. The local server binds only to loopback. The private hosted version is confirmed by the platform; its access gate requires authorized ChatGPT sign-in. Local checks, live asset verification, and interactive browser checks are recorded separately in [docs/LIVE_VERIFICATION.md](docs/LIVE_VERIFICATION.md). Keep credentials out of source and exports.

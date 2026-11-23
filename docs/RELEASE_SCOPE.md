@@ -1,6 +1,6 @@
 # Release scope and tradeoffs
 
-RevenueLens combines a primary current US market investigation with a separate historical invoice lab. The handbook is design context; its proposed PostgreSQL and Power BI implementation is not evidence that those components already exist. Remote publication has not completed, and no live hosted release is claimed.
+RevenueLens combines a primary current US market investigation with a separate historical invoice lab. The handbook is design context; its proposed PostgreSQL and Power BI implementation is not evidence that those components already exist. Platform deployment is confirmed at the [private RevenueLens site](https://revenuelens-retail-intelligence.flowerycider4.chatgpt.site). Authorized ChatGPT sign-in is required; full interactive live-browser verification awaits authentication.
 
 ## Primary current US report
 
@@ -30,4 +30,4 @@ The static application reads public aggregate snapshots and a bounded set of pse
 
 Source validation, browser behavior, remote publication, public accessibility, Power BI reconciliation, and real business impact are separate claims. A polished release and passing tests do not establish a global percentile rank. Quality claims should refer to executed checks, traceable evidence, and reproducible behavior.
 
-`dist/` is the packaged static artifact. A configured hosting manifest or attempted publication is not evidence of a live deployment. Publication remains a separate authorized action; the current data-source change does not itself publish the site.
+`dist/` is the packaged static artifact. The private deployment is confirmed by the platform against its saved source version. [LIVE_VERIFICATION.md](LIVE_VERIFICATION.md) distinguishes deployment/access confirmation from live asset checks and interactive browser verification. Publication preserves the private audience and does not establish public accessibility.

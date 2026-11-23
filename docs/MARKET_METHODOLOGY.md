@@ -44,4 +44,4 @@ The stated interval describes sampling uncertainty in the published estimate. No
 
 This report supports an inspectable national market investigation. It has no current retailer invoices, customer identities, cohorts, cancellation records, costs, campaign exposure, or subnational estimates. Its evidence cannot establish customer retention, firm profitability, or causal business impact.
 
-The application is prepared and validated locally. Remote publication has not completed; a hosting manifest and attempted publication are not evidence of a live release. Any later publication remains a separate authorized deployment.
+The application is validated locally and platform deployment is confirmed at the [private RevenueLens site](https://revenuelens-retail-intelligence.flowerycider4.chatgpt.site). Authorized ChatGPT sign-in is required. Full interactive live-browser checks await authentication. [LIVE_VERIFICATION.md](LIVE_VERIFICATION.md) records deployment, access, source identity, and the remaining verification boundary separately.

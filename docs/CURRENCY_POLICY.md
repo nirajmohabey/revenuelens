@@ -53,4 +53,4 @@ Do not relabel `SignedAmount`, `UnitPriceGBP`, or `amount_units` as USD without 
 
 ## Release status
 
-This policy documents the local application. Remote publication has not completed, and no live hosted release is claimed. A currency-display change does not itself publish the application.
+This policy applies to the local application and the [confirmed private deployment](https://revenuelens-retail-intelligence.flowerycider4.chatgpt.site). Authorized ChatGPT sign-in is required. Full interactive live-browser verification awaits authentication; see [LIVE_VERIFICATION.md](LIVE_VERIFICATION.md) for deployment and verification evidence. The historical lab's FX convention remains separate from the primary native-USD report on either host.

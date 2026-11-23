@@ -1,0 +1,204 @@
+{
+  "checkedAt": "2026-11-23T17:56:18.044Z",
+  "origin": "https://revenuelens-retail-intelligence.flowerycider4.chatgpt.site",
+  "access": "owner-private; platform service access used only for this Site",
+  "anonymous": [
+    {
+      "path": "/",
+      "status": 401,
+      "contentType": "text/html; charset=utf-8",
+      "privateContentExposed": false,
+      "signInGate": true
+    },
+    {
+      "path": "/data/market.json",
+      "status": 401,
+      "contentType": "text/html; charset=utf-8",
+      "privateContentExposed": false,
+      "signInGate": true
+    }
+  ],
+  "assets": [
+    {
+      "path": "/",
+      "finalPath": "/",
+      "redirects": [],
+      "status": 200,
+      "contentType": "text/html",
+      "bytes": 2279,
+      "sha256": "c8601867591d827cdd4e521feaee156c0e555a28e3afcb671149ac5f3b0caa09",
+      "expectedSha256": "a7829a6e4f412d28a3ab4ac160308aeac5b54420948c6ae75b6c6bc0ad0d334c",
+      "exactByteMatch": false,
+      "htmlCoreVerified": true,
+      "verified": true
+    },
+    {
+      "path": "/index.html",
+      "finalPath": "/",
+      "redirects": [
+        {
+          "status": 307,
+          "path": "/"
+        }
+      ],
+      "status": 200,
+      "contentType": "text/html",
+      "bytes": 2279,
+      "sha256": "eb9be2dd81b9bb625cf47b8ee595df43aed93b5e91e17e186bac6ac8311ae1a0",
+      "expectedSha256": "a7829a6e4f412d28a3ab4ac160308aeac5b54420948c6ae75b6c6bc0ad0d334c",
+      "exactByteMatch": false,
+      "htmlCoreVerified": true,
+      "verified": true
+    },
+    {
+      "path": "/market.js",
+      "finalPath": "/market.js",
+      "redirects": [],
+      "status": 200,
+      "contentType": "text/javascript",
+      "bytes": 44747,
+      "sha256": "b58a1dd0e5e1fa46725cb22947c72877d93f403510f65b530fd9e3cada50a2db",
+      "expectedSha256": "b58a1dd0e5e1fa46725cb22947c72877d93f403510f65b530fd9e3cada50a2db",
+      "exactByteMatch": true,
+      "htmlCoreVerified": false,
+      "verified": true
+    },
+    {
+      "path": "/market-model.mjs",
+      "finalPath": "/market-model.mjs",
+      "redirects": [],
+      "status": 200,
+      "contentType": "text/javascript",
+      "bytes": 2767,
+      "sha256": "85ca1710941493f96ae7e1ca060f5c5f4fdbfd40ddf6d7bb4d2aa74ed7390e95",
+      "expectedSha256": "85ca1710941493f96ae7e1ca060f5c5f4fdbfd40ddf6d7bb4d2aa74ed7390e95",
+      "exactByteMatch": true,
+      "htmlCoreVerified": false,
+      "verified": true
+    },
+    {
+      "path": "/styles.css",
+      "finalPath": "/styles.css",
+      "redirects": [],
+      "status": 200,
+      "contentType": "text/css",
+      "bytes": 31743,
+      "sha256": "e9ac2aee5bdf58b58e5c074350e70e8a8e1ba02be46c1995da3dcb8b7561cf6a",
+      "expectedSha256": "e9ac2aee5bdf58b58e5c074350e70e8a8e1ba02be46c1995da3dcb8b7561cf6a",
+      "exactByteMatch": true,
+      "htmlCoreVerified": false,
+      "verified": true
+    },
+    {
+      "path": "/favicon.svg",
+      "finalPath": "/favicon.svg",
+      "redirects": [],
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "bytes": 185,
+      "sha256": "91f1e4d8d93c158fecf84872b370c25050dae4252d88d98db9e48c65e4ec3bb3",
+      "expectedSha256": "91f1e4d8d93c158fecf84872b370c25050dae4252d88d98db9e48c65e4ec3bb3",
+      "exactByteMatch": true,
+      "htmlCoreVerified": false,
+      "verified": true
+    },
+    {
+      "path": "/data/market.json",
+      "finalPath": "/data/market.json",
+      "redirects": [],
+      "status": 200,
+      "contentType": "application/json",
+      "bytes": 414448,
+      "sha256": "21ad5cd6ac4e8a0dbfef6ecaa68efd38a503c4532c13550be78608604ef44759",
+      "expectedSha256": "21ad5cd6ac4e8a0dbfef6ecaa68efd38a503c4532c13550be78608604ef44759",
+      "exactByteMatch": true,
+      "htmlCoreVerified": false,
+      "verified": true
+    },
+    {
+      "path": "/lab.html",
+      "finalPath": "/lab",
+      "redirects": [
+        {
+          "status": 307,
+          "path": "/lab"
+        }
+      ],
+      "status": 200,
+      "contentType": "text/html",
+      "bytes": 2300,
+      "sha256": "ca4aedc9df721a402b67016a8976e14d61bac6249b34914e88a98a03d5d6a2bc",
+      "expectedSha256": "fdbb3fc2164fb31d476d9a13fccdd5b15e2c7ba36adee412325b948e515a89f9",
+      "exactByteMatch": false,
+      "htmlCoreVerified": true,
+      "verified": true
+    },
+    {
+      "path": "/app.js",
+      "finalPath": "/app.js",
+      "redirects": [],
+      "status": 200,
+      "contentType": "text/javascript",
+      "bytes": 58810,
+      "sha256": "3271e4fdbc28a5eeb560b14cdc13804e32280e7a85d3dda164cbbb65e01a510e",
+      "expectedSha256": "3271e4fdbc28a5eeb560b14cdc13804e32280e7a85d3dda164cbbb65e01a510e",
+      "exactByteMatch": true,
+      "htmlCoreVerified": false,
+      "verified": true
+    },
+    {
+      "path": "/model.mjs",
+      "finalPath": "/model.mjs",
+      "redirects": [],
+      "status": 200,
+      "contentType": "text/javascript",
+      "bytes": 3146,
+      "sha256": "b857fa619b14b1bc4385754e56f63706591149b51859db1cd2ec05e30a9d2a76",
+      "expectedSha256": "b857fa619b14b1bc4385754e56f63706591149b51859db1cd2ec05e30a9d2a76",
+      "exactByteMatch": true,
+      "htmlCoreVerified": false,
+      "verified": true
+    },
+    {
+      "path": "/fx.mjs",
+      "finalPath": "/fx.mjs",
+      "redirects": [],
+      "status": 200,
+      "contentType": "text/javascript",
+      "bytes": 483,
+      "sha256": "4730c9e35cb4375f4d31aaac7cb59dcf23aa2639e6441ed5eae2e9a0de115b43",
+      "expectedSha256": "4730c9e35cb4375f4d31aaac7cb59dcf23aa2639e6441ed5eae2e9a0de115b43",
+      "exactByteMatch": true,
+      "htmlCoreVerified": false,
+      "verified": true
+    },
+    {
+      "path": "/data/dashboard.json",
+      "finalPath": "/data/dashboard.json",
+      "redirects": [],
+      "status": 200,
+      "contentType": "application/json",
+      "bytes": 6561501,
+      "sha256": "56e075a69440e274a46b4f99e7b98b64a40b9dfb5a85e9b01277b8bb9bd1270e",
+      "expectedSha256": "56e075a69440e274a46b4f99e7b98b64a40b9dfb5a85e9b01277b8bb9bd1270e",
+      "exactByteMatch": true,
+      "htmlCoreVerified": false,
+      "verified": true
+    },
+    {
+      "path": "/?view=trends&month=2025-10&sector=447&basis=nsa",
+      "finalPath": "/",
+      "redirects": [],
+      "status": 200,
+      "contentType": "text/html",
+      "bytes": 2279,
+      "sha256": "fe6f143db5fa416c6ed3457a15edb53cf29c99211071a42119f683b4d0a81dc2",
+      "expectedSha256": "a7829a6e4f412d28a3ab4ac160308aeac5b54420948c6ae75b6c6bc0ad0d334c",
+      "exactByteMatch": false,
+      "htmlCoreVerified": true,
+      "verified": true
+    }
+  ],
+  "passed": true,
+  "browserInteractive": "Pending manual ChatGPT sign-in; no Google account access attempted by this checker."
+}
