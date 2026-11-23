@@ -1,6 +1,6 @@
 # Release scope and tradeoffs
 
-RevenueLens combines a primary current US market investigation with a separate historical invoice lab. The handbook is design context; its proposed PostgreSQL and Power BI implementation is not evidence that those components already exist. Platform deployment is confirmed at the [private RevenueLens site](https://revenuelens-retail-intelligence.flowerycider4.chatgpt.site). Authorized ChatGPT sign-in is required; full interactive live-browser verification awaits authentication.
+RevenueLens combines a primary current US market investigation with a separate historical invoice lab. The handbook is design context; its proposed PostgreSQL and Power BI implementation is not evidence that those components already exist. The standalone source repository and portfolio demo are public; the separate [private RevenueLens site](https://revenuelens-retail-intelligence.flowerycider4.chatgpt.site) requires authorized ChatGPT sign-in. Its recorded version-3 authenticated checks and the public portfolio's later successful native Chrome print checks are distinct evidence. [PUBLIC_RELEASE.md](PUBLIC_RELEASE.md) and [LIVE_VERIFICATION.md](LIVE_VERIFICATION.md) define the release channels and exact tested scopes.
 
 ## Primary current US report
 
@@ -30,4 +30,4 @@ The static application reads public aggregate snapshots and a bounded set of pse
 
 Source validation, browser behavior, remote publication, public accessibility, Power BI reconciliation, and real business impact are separate claims. A polished release and passing tests do not establish a global percentile rank. Quality claims should refer to executed checks, traceable evidence, and reproducible behavior.
 
-`dist/` is the packaged static artifact. The private deployment is confirmed by the platform against its saved source version. [LIVE_VERIFICATION.md](LIVE_VERIFICATION.md) distinguishes deployment/access confirmation from live asset checks and interactive browser verification. Publication preserves the private audience and does not establish public accessibility.
+`dist/` is the packaged static artifact. Each private deployment is confirmed by the platform against its saved source version. [LIVE_VERIFICATION.md](LIVE_VERIFICATION.md) distinguishes deployment/access confirmation from live asset checks and interactive browser verification. Publishing the source repository and portfolio demonstration preserves the separate Site's private audience; local source updates alone do not establish a later private deployment.

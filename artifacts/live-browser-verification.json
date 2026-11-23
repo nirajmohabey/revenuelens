@@ -1,0 +1,173 @@
+{
+  "project": "RevenueLens",
+  "origin": "https://revenuelens-retail-intelligence.flowerycider4.chatgpt.site",
+  "verifiedAt": "2026-11-23T18:15:36Z",
+  "verificationMethod": "Authenticated in-app browser UI plus independent validation of its downloaded files",
+  "deployedVersion": 3,
+  "sourceCommit": "d045c03eea0db1d42810f60415c60b89b18a1946",
+  "status": "passed_with_print_preview_unverified",
+  "passedWorkflowAndAccessCases": 27,
+  "cases": [
+    {
+      "id": "authenticated-homepage",
+      "status": "passed",
+      "observed": "Opened the private production site after manual sign-in; current report rendered."
+    },
+    {
+      "id": "current-sa",
+      "status": "passed",
+      "observed": "October 2026 total SA displayed $748.22B, +0.2% MoM and +6.8% YoY; 90% interval -0.2% to +0.6%."
+    },
+    {
+      "id": "current-nsa",
+      "status": "passed",
+      "observed": "October 2026 total NSA displayed $761.38B; no inherited SA confidence interval."
+    },
+    {
+      "id": "source-dialog",
+      "status": "passed",
+      "observed": "SA source 748220 at MARTS Table 1 row 12 column J; NSA 761378 at column E."
+    },
+    {
+      "id": "saved-query-and-reload",
+      "status": "passed",
+      "observed": "Trends / October 2025 / Gasoline stations / NSA survived reload; displayed $55.32B."
+    },
+    {
+      "id": "drivers-national-scope",
+      "status": "passed",
+      "observed": "Sector drivers used the national total with 13 disjoint industries and an explicit residual, despite previous industry selection."
+    },
+    {
+      "id": "trust-frozen-scope",
+      "status": "passed",
+      "observed": "Data trust source observation returned latest October 2026 total SA, regardless of hidden previous filters."
+    },
+    {
+      "id": "live-csv-download",
+      "status": "passed",
+      "observed": "Downloaded selected October 2025 gasoline NSA evidence CSV from the live site."
+    },
+    {
+      "id": "live-audit-download",
+      "status": "passed",
+      "observed": "Downloaded full source audit JSON from the live Data trust header."
+    },
+    {
+      "id": "export-content",
+      "status": "passed",
+      "observed": "20 independent checks passed against the frozen payload; audit matched 644 points and 1288 SA/NSA coordinates."
+    },
+    {
+      "id": "metric-dictionary",
+      "status": "passed",
+      "observed": "Current dictionary opened and displayed formulas, units, adjustment basis, uncertainty, and customer-data limitations."
+    },
+    {
+      "id": "dialog-keyboard",
+      "status": "passed",
+      "observed": "Escape closed dialogs; source trigger regained focus."
+    },
+    {
+      "id": "chart-keyboard",
+      "status": "passed",
+      "observed": "Shift+Tab focused the September 2026 SVG point; Enter changed the selected month to September 2026."
+    },
+    {
+      "id": "trend-data-table",
+      "status": "passed",
+      "observed": "Exact source-level table displayed current/prior-year USD values."
+    },
+    {
+      "id": "unavailable-history",
+      "status": "passed",
+      "observed": "January 2024 trend window displayed unavailable prior-year baselines for earlier 2023 months, rather than zero."
+    },
+    {
+      "id": "desktop-routes",
+      "status": "passed",
+      "observed": "All five current routes rendered at 1440x1024; page width 1425, no visible unnamed buttons."
+    },
+    {
+      "id": "mobile-routes",
+      "status": "passed",
+      "observed": "All five current routes rendered at 390x844; page width 375, bottom navigation worked."
+    },
+    {
+      "id": "mobile-dialog",
+      "status": "passed",
+      "observed": "Source dialog fitted the mobile viewport at approximately 336.67px width."
+    },
+    {
+      "id": "historical-route",
+      "status": "passed",
+      "observed": "Historical lab loaded at canonical /lab and reloaded /lab?view=drivers&month=2010-12."
+    },
+    {
+      "id": "historical-separation",
+      "status": "passed",
+      "observed": "Historical lab displayed explicit 2009-2011 scope; link returned to current US report."
+    },
+    {
+      "id": "invoice-drillthrough",
+      "status": "passed",
+      "observed": "Invoice #574941 showed $83143.75, original GBP/source row evidence, and explicit 100-of-101-line preview truncation."
+    },
+    {
+      "id": "cohort-maturity",
+      "status": "passed",
+      "observed": "Mature 90-day population 5252; 2443 repeat buyers; October-December 2011 immature rates unavailable."
+    },
+    {
+      "id": "overlap-warning",
+      "status": "passed",
+      "observed": "December 2010 showed +48.2% baseline and -2.8% identical-content exclusion scenario."
+    },
+    {
+      "id": "sensitivity-toggle",
+      "status": "passed",
+      "observed": "Exclude top five per period changed the pressed state and displayed 43.7%."
+    },
+    {
+      "id": "historical-fx-policy",
+      "status": "passed",
+      "observed": "Historical lab disclosed fixed GBP1 = USD1.5705; separate historical conversion only."
+    },
+    {
+      "id": "runtime-logs",
+      "status": "passed",
+      "observed": "No error or warning entries were returned for the observed current-report and historical-lab session."
+    },
+    {
+      "id": "private-access-policy",
+      "status": "passed",
+      "observed": "Platform remained active version 3 with owner-only custom access, one owner and zero groups."
+    }
+  ],
+  "limitations": [
+    {
+      "id": "native-print-preview",
+      "status": "unverified",
+      "detail": "Clicking Print decision brief stalled the in-app browser controls. Native print preview and physical printing were not observable. The decision brief rendered correctly; the separately generated executive PDF is included."
+    }
+  ],
+  "viewports": [
+    {
+      "width": 1440,
+      "height": 1024
+    },
+    {
+      "width": 390,
+      "height": 844
+    }
+  ],
+  "screenshots": [
+    "RevenueLens_Live_Desktop.jpg",
+    "RevenueLens_Live_Mobile.jpg"
+  ],
+  "relatedEvidence": [
+    "live-http-verification.json",
+    "live-export-verification.json"
+  ],
+  "scope": "Observed workflows and layouts on the deployed private hostname. This is not a guarantee for every browser, printer, or possible interaction."
+}

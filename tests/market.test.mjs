@@ -16,7 +16,7 @@ test('Current USD levels, growth, and uncertainty preserve units and missingness
 
 test('Every current report period, industry and basis renders from real source values',async()=>{
   const data=JSON.parse(await readFile(new URL('../dist/data/market.json',import.meta.url),'utf8'));
-  const handlers={};const app={innerHTML:''};
+  const handlers={};const app={innerHTML:'',contains:()=>false};
   const dialog={innerHTML:'',open:false,showModal(){this.open=true;},close(){this.open=false;},addEventListener(){}};
   const toast={classList:{add(){},remove(){}}};
   globalThis.document={querySelector:s=>s==='#app'?app:s==='#detail-dialog'?dialog:s==='#toast'?toast:null,querySelectorAll:()=>[],addEventListener:(type,fn)=>{handlers[type]=fn;},title:''};

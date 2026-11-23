@@ -1,0 +1,66 @@
+{
+  "checkedAt": "2026-11-23T22:10:28.052Z",
+  "passed": true,
+  "canonicalCodeExactlyMatchesTestedCandidate": true,
+  "comparedCodeDataFiles": 41,
+  "commands": {
+    "build": "npm run build (canonical checkout)",
+    "js": "npm test (isolated candidate; canonical code/data byte-identical)",
+    "python": "python -m unittest discover -s tests -p test_*.py -v (same candidate)"
+  },
+  "results": {
+    "webEntries": 11,
+    "javascriptTests": 5,
+    "currentRouteFilterRenders": 2925,
+    "currentUSPoints": 644,
+    "adjustmentBasisBridges": 68,
+    "historicalComparisons": 528,
+    "pythonFixtureTests": 14
+  },
+  "runtimeFilesSynced": [
+    {
+      "web": "web/app.js",
+      "dist": "dist/app.js",
+      "sha256": "459ba552038cc42e468b8d54a946e45ae12a826310e8c30992958d6df74ee7ea"
+    },
+    {
+      "web": "web/market.js",
+      "dist": "dist/market.js",
+      "sha256": "8ba3e624fd0ea6390504f02145389d4f3425e45cfb44c8384624dd4ce41c9360"
+    },
+    {
+      "web": "web/styles.css",
+      "dist": "dist/styles.css",
+      "sha256": "445379c63221e3857dab5d8cbece21be800c94a046d2bfe8002e099a76fccdd8"
+    },
+    {
+      "web": "web/brief-pdf.mjs",
+      "dist": "dist/brief-pdf.mjs",
+      "sha256": "c02e1e728238a512e1cdb134047397145916f21f3f82beb1e459377f329c08e0"
+    },
+    {
+      "web": "web/vendor/jspdf.mjs",
+      "dist": "dist/vendor/jspdf.mjs",
+      "sha256": "c73fe94faed3e65bb11d1523d61e2b5685496e615caeef388b8949a082d807a8"
+    },
+    {
+      "web": "web/vendor/jsPDF-LICENSE.txt",
+      "dist": "dist/vendor/jsPDF-LICENSE.txt",
+      "sha256": "dc388ec35ff463288cdde3588a36fd4ed12a45deff053243b37309acc9ef583b"
+    },
+    {
+      "web": "web/vendor/README.txt",
+      "dist": "dist/vendor/README.txt",
+      "sha256": "8ae1ef1910e2bd30fce2f65f496b0dd23de49a3f08df27d03f13d3e31b649381"
+    }
+  ],
+  "candidateFiles": 97,
+  "candidateBytes": 10955409,
+  "largestCandidate": {
+    "path": "dist/data/dashboard.json",
+    "bytes": 6561501
+  },
+  "ignoredDataAndSecretsPathsExcluded": true,
+  "siteAudienceChanged": false,
+  "deploymentClaim": "No new private Site deployment claimed by this source check"
+}

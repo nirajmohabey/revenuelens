@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "A reproducible historical retail investigation with invoice evidence, customer cohorts, and an interactive report.",
+  "description": "Current US Census retail sales in native USD, with traceable source evidence and a separate historical invoice and cohort lab.",
   "engines": { "node": ">=22" },
   "scripts": {
     "build": "node scripts/build.mjs",

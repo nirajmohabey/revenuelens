@@ -1,0 +1,184 @@
+{
+  "verifiedAt": "2026-11-23T18:13:42+00:00",
+  "passed": true,
+  "checkCount": 20,
+  "inputs": [
+    {
+      "path": "C:\\Users\\nmoha\\Documents\\Codex\\2026-11-23\\from\\outputs\\revenuelens\\dist\\data\\market.json",
+      "bytes": 414448,
+      "sha256": "21ad5cd6ac4e8a0dbfef6ecaa68efd38a503c4532c13550be78608604ef44759"
+    },
+    {
+      "path": "C:\\Users\\nmoha\\Downloads\\RevenueLens-US-2025-10-447-nsa.csv",
+      "bytes": 2765,
+      "sha256": "4b0250f3a65ef3b7367d9585af51c4aca19bcb166f79d0430f52a69dfd83a437"
+    },
+    {
+      "path": "C:\\Users\\nmoha\\Downloads\\RevenueLens-US-source-audit.json",
+      "bytes": 384135,
+      "sha256": "4360bdb2c6a0bd30b76119babdeb3d3c9c12758a03c4e8a577d778c14801ed95"
+    }
+  ],
+  "selected": {
+    "month": "2025-10",
+    "category": "447",
+    "basis": "nsa",
+    "levelsUSDMillions": {
+      "Current sales": 55322,
+      "Previous-month sales": 54234,
+      "Prior-year same-month sales": 54791
+    },
+    "source": {
+      "file": "marts",
+      "sheet": "Table 1.",
+      "row": 42,
+      "column": "H"
+    },
+    "uncertainty": "Unavailable for this unmatched historical-sector-NSA cut; exported empty."
+  },
+  "audit": {
+    "pointCount": 644,
+    "sourceCoordinateCount": 1288,
+    "scope": "Exact structural equality for meta, quality and all points against frozen application payload."
+  },
+  "checks": [
+    {
+      "name": "selected_context",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "release_vintage",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "selected_current_sales",
+      "passed": true,
+      "detail": {
+        "actual": 55322.0,
+        "expected": 55322,
+        "unit": "USD millions"
+      }
+    },
+    {
+      "name": "selected_previous-month_sales",
+      "passed": true,
+      "detail": {
+        "actual": 54234.0,
+        "expected": 54234,
+        "unit": "USD millions"
+      }
+    },
+    {
+      "name": "selected_prior-year_same-month_sales",
+      "passed": true,
+      "detail": {
+        "actual": 54791.0,
+        "expected": 54791,
+        "unit": "USD millions"
+      }
+    },
+    {
+      "name": "nominal_native_usd_metadata",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "selected_mom_arithmetic",
+      "passed": true,
+      "detail": {
+        "actual": 2.0061216211232806,
+        "expected": 2.00612162112328
+      }
+    },
+    {
+      "name": "selected_yoy_arithmetic",
+      "passed": true,
+      "detail": {
+        "actual": 0.9691372670694093,
+        "expected": 0.9691372670694198
+      }
+    },
+    {
+      "name": "selected_status",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "selected_source_coordinates",
+      "passed": true,
+      "detail": {
+        "file": "marts",
+        "sheet": "Table 1.",
+        "row": 42,
+        "column": "H"
+      }
+    },
+    {
+      "name": "unmatched_uncertainty_is_empty",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "thirteen_nonoverlapping_exported_national_sectors",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "all_national_sector_values_and_contributions",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "exported_rounding_residual",
+      "passed": true,
+      "detail": {
+        "exported": [
+          "Rounding / published residual",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "expected": {
+          "current": 0,
+          "previous": 0,
+          "yoyPrevious": 0,
+          "delta": 0,
+          "yoyDelta": 0
+        }
+      }
+    },
+    {
+      "name": "national_bridge_sums",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "all_six_source_urls_and_hashes",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "audit_meta_exact_match",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "audit_quality_exact_match",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "audit_all_644_points_exact_match",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "audit_all_1288_source_coordinates_match",
+      "passed": true,
+      "detail": 1288
+    }
+  ]
+}

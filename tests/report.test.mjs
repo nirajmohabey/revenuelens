@@ -26,7 +26,7 @@ test('Every application route consumes the final real-data schema',async()=>{
   const report=JSON.parse(await readFile(new URL('../dist/data/dashboard.json',import.meta.url),'utf8'));
   normalizeReport(report);
   const handlers={};
-  const app={innerHTML:''};
+  const app={innerHTML:'',contains:()=>false};
   const dialog={innerHTML:'',showModal(){this.open=true;},close(){this.open=false;},addEventListener(){}};
   const toast={textContent:'',classList:{add(){},remove(){}}};
   globalThis.document={querySelector(selector){return selector==='#app'?app:selector==='#detail-dialog'?dialog:selector==='#toast'?toast:null;},querySelectorAll(){return [];},addEventListener(type,handler){handlers[type]=handler;},title:''};

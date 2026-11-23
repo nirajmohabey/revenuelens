@@ -1,0 +1,79 @@
+{
+  "checkedAt": "2026-11-23T20:22:01.653039+00:00",
+  "passed": true,
+  "method": "Four PDFs saved via real Chrome native Print preview and Save as PDF; independent full content, US Letter geometry and page-render review",
+  "desktop": true,
+  "mobileMode": {
+    "browser": "Chrome Responsive",
+    "width": 390,
+    "height": 844,
+    "physicalDevice": false
+  },
+  "cases": [
+    {
+      "case": "current-desktop",
+      "pages": 2,
+      "usLetter": true,
+      "contentSegmentsChecked": 25,
+      "completeContent": true,
+      "safeBodyBounds": true,
+      "visualPassed": true,
+      "sha256": "e6852b2dcb685a82ded93bb780c51b61fca000fa0d478c0dbcd7b1b5b9959eef",
+      "bytes": 95369,
+      "bodyRenderedPixelsMatchDesktop": null
+    },
+    {
+      "case": "historical-desktop",
+      "pages": 2,
+      "usLetter": true,
+      "contentSegmentsChecked": 29,
+      "completeContent": true,
+      "safeBodyBounds": true,
+      "visualPassed": true,
+      "sha256": "05d65dc16a4a3f402e27ca8fd20fbcd78e75b9c0044e42b0092893c379bd22a3",
+      "bytes": 126400,
+      "bodyRenderedPixelsMatchDesktop": null
+    },
+    {
+      "case": "current-mobile",
+      "pages": 2,
+      "usLetter": true,
+      "contentSegmentsChecked": 25,
+      "completeContent": true,
+      "safeBodyBounds": true,
+      "visualPassed": true,
+      "sha256": "753ed60ae55201354372fd12ab910d2025719a449d08af809f4521bf9d7f6eaa",
+      "bytes": 94990,
+      "bodyRenderedPixelsMatchDesktop": [
+        true,
+        true
+      ]
+    },
+    {
+      "case": "historical-mobile",
+      "pages": 2,
+      "usLetter": true,
+      "contentSegmentsChecked": 29,
+      "completeContent": true,
+      "safeBodyBounds": true,
+      "visualPassed": true,
+      "sha256": "0a1a2ba957ec8c8f610e1dade0e5da80030629918aea1e6468f12d38e9f947e9",
+      "bytes": 126326,
+      "bodyRenderedPixelsMatchDesktop": [
+        true,
+        true
+      ]
+    }
+  ],
+  "nativePDFs": 4,
+  "pagesReviewed": 8,
+  "contentSegmentsChecked": 108,
+  "allCurrentSourceTrailsPresent": true,
+  "allHistoricalMeasurementBoundariesSourceHashesAndFixedFXNotesPresent": true,
+  "allPageBodiesVisuallyClean": true,
+  "mobileReportBodiesPixelIdenticalToDesktop": true,
+  "sourceEdits": false,
+  "deploymentChanges": false,
+  "testedOrigin": "https://portfolio-niraj-mohabeys-projects.vercel.app",
+  "privateSiteNewVersionClaimed": false
+}

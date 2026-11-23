@@ -6,7 +6,7 @@ Executed 2026-11-23 on the supplied full UCI workbook. Machine-readable validati
 
 **Currency distinction:** all source calculations and analytical totals below remain **GBP**. The report presents their **USD constant-currency equivalents**, using **1 GBP = 1.5705 USD** for every period. The rate is the November 30, 2011 observation in [Federal Reserve H.10 / FRED DEXUSUK](https://fred.stlouisfed.org/data/DEXUSUK), checked on November 23, 2026. It is a historical display convention, not daily conversion, current FX, or new US-market evidence. See [CURRENCY_POLICY.md](CURRENCY_POLICY.md).
 
-**Hosting status:** local validation is recorded here. The platform separately confirms the [private RevenueLens deployment](https://revenuelens-retail-intelligence.flowerycider4.chatgpt.site), including the historical lab at `/lab.html`. Authorized ChatGPT sign-in is required; full interactive live-browser verification awaits authentication. See [LIVE_VERIFICATION.md](LIVE_VERIFICATION.md).
+**Hosting status:** local validation is recorded here. Private version 3 is deployed at the [RevenueLens site](https://revenuelens-retail-intelligence.flowerycider4.chatgpt.site), requiring authorized ChatGPT sign-in. Authenticated live checks covered the historical lab's direct load/reload, return link, invoice preview, mature cohorts, unavailable immature windows, December 2010 sensitivity, and historical-only FX policy. Native print preview remains unverified because the in-app browser's print call stalled. See [LIVE_VERIFICATION.md](LIVE_VERIFICATION.md) for the exact current-report and historical-lab scope.
 
 ## Independent source calculation
 

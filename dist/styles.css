@@ -19,4 +19,115 @@ dialog{width:min(880px,calc(100vw - 35px));max-height:88dvh;border:1px solid #db
 .line-chart text{fill:#607087}.kpi-title,.comparison-label,.source-grid dt{font-size:14px}.data-table{font-size:14px}.data-table th{font-size:12px}.bridge-item{font-size:13px}.cohort-table td{font-size:13px}.dictionary-item small{display:block;line-height:1.7;margin-top:5px;font-size:13px}
 @media(max-width:760px){.comparison-label{font-size:12px}.kpi-title{font-size:12px}.data-table{font-size:13px}.bridge-item{font-size:12px}}
 @media(max-width:480px){.kpi-title{font-size:11px}.data-table{font-size:12px}.bridge-item{font-size:11px}}
-@media print{body{background:#fff;color:#000;font-size:12px}.shell{display:block}.sidebar,.topbar,.filters,.heading-buttons,.footer,#toast,dialog,.skip-link,.chart-tooltip{display:none!important}.workspace{padding:0}.content{padding:0;max-width:none}.page-heading{margin-bottom:20px}.page-heading h1{font-size:24px}.panel{box-shadow:none;break-inside:avoid;border:1px solid #ccc}.memo{max-width:none}.memo-cover,.memo-section{padding:20px 25px}.memo-cover h2{font-size:24px}.memo-section p,.memo-section li,.memo-intro{font-size:12px}.memo-section{break-inside:avoid}.memo-findings{grid-template-columns:repeat(3,1fr)}.kpi-value{font-size:24px}.print-only{display:block;font-size:10px;color:#666}.text-button{display:none}.chart-row,.bottom-row{grid-template-columns:1fr 1fr}.panel-head p{font-size:10px}.market-body{flex-direction:row}.table-wrap{overflow:visible}.data-table{font-size:10px}.memo-cover{border-top-width:3px}.cohort-scroll{overflow:visible}.cohort-table{min-width:0}.source-grid .hash{font-size:9px}}
+@page {
+  size: Letter portrait;
+  margin: 0.55in 0.5in;
+}
+
+@media print {
+  html, body { background: #fff !important; }
+  body { color: #111; font-size: 10.5pt; line-height: 1.45; }
+  .shell { display: block; min-height: 0; }
+  .sidebar, .topbar, .filters, .heading-buttons, #toast, dialog,
+  .skip-link, .chart-tooltip, .text-button, .icon-button, .sensitivity-switch {
+    display: none !important;
+  }
+  .workspace { width: 100%; min-width: 0; padding: 0; }
+  .content { width: 100%; max-width: none; margin: 0; padding: 0; }
+  .page-heading { display: block; margin-bottom: 14pt; break-after: avoid; }
+  .page-heading h1 { font-size: 20pt; }
+  .page-subtitle, .eyebrow { color: #333; }
+  h1, h2, h3, .panel-head { break-after: avoid; page-break-after: avoid; }
+  p, li { orphans: 3; widows: 3; }
+  a { color: inherit; overflow-wrap: anywhere; }
+  .panel {
+    overflow: visible;
+    break-inside: auto;
+    page-break-inside: auto;
+    border: 1px solid #bbb;
+    border-radius: 0;
+    box-shadow: none;
+    margin-bottom: 12pt;
+  }
+  .chart-row, .bottom-row, .section-grid, .kpi-grid, .memo-findings {
+    display: block;
+  }
+  .chart-row > *, .bottom-row > *, .section-grid > * { margin-bottom: 12pt; }
+  .panel-head { padding: 10pt 12pt 6pt; }
+  .panel-head p, .chart-foot, .panel-bottom { font-size: 8.5pt; color: #333; }
+  .panel-pad { padding: 12pt; }
+  .kpi, .memo-finding {
+    display: block;
+    break-inside: avoid;
+    page-break-inside: avoid;
+    margin-bottom: 7pt;
+    padding: 8pt 10pt;
+    border: 1px solid #ccc;
+    background: #fff;
+    box-shadow: none;
+  }
+  .kpi-top { margin-bottom: 5pt; }
+  .kpi-value, .memo-finding strong { color: #111; font-size: 18pt; white-space: normal; }
+  .kpi-title, .kpi-foot, .memo-finding small { color: #333; font-size: 9pt; }
+  .line-chart-wrap, .line-chart { break-inside: avoid; page-break-inside: avoid; }
+  .line-chart { width: 100%; max-width: 100%; height: auto; }
+  .bridge-list { padding: 10pt 12pt; }
+  .bridge-item { font-size: 9pt; }
+  .market-body { flex-direction: row; flex-wrap: wrap; }
+  .confidence-range { flex-wrap: wrap; }
+  .table-wrap, .cohort-scroll { width: 100%; max-width: 100%; overflow: visible; padding: 0 10pt 8pt; }
+  .data-table {
+    width: 100%;
+    max-width: 100%;
+    table-layout: fixed;
+    white-space: normal;
+    font-size: 8.5pt;
+  }
+  .data-table th, .data-table td {
+    padding: 6pt 4pt;
+    white-space: normal;
+    overflow-wrap: anywhere;
+    word-break: normal;
+    vertical-align: top;
+    line-height: 1.3;
+    font-size: inherit;
+    color: #222;
+  }
+  thead { display: table-header-group; }
+  tfoot { display: table-footer-group; }
+  tr { break-inside: avoid; page-break-inside: avoid; }
+  .invoice-btn { display: inline; font: inherit; color: #222 !important; white-space: normal; }
+  .country-name { display: block; }
+  .country-symbol { display: none !important; }
+  .cohort-table { width: 100%; min-width: 0; table-layout: fixed; border-spacing: 2pt; }
+  .cohort-table th, .cohort-table td {
+    min-width: 0;
+    height: auto;
+    padding: 3pt 1pt;
+    white-space: normal;
+    overflow-wrap: anywhere;
+    font-size: 7pt;
+    color: #111 !important;
+  }
+  .cohort-table td { background: #fff !important; border: 1px solid #bbb; }
+  .cohort-table th:first-child, .cohort-table td:first-child { width: 15%; min-width: 0; }
+  .cohort-table th:nth-child(2), .cohort-table td:nth-child(2) { width: 9%; }
+  .memo { width: 100%; max-width: none; margin: 0; }
+  .memo-cover, .memo-section { padding: 12pt 14pt; break-inside: auto; page-break-inside: auto; }
+  .memo-cover { border-top-width: 2pt; }
+  .memo-cover h2 { max-width: none; font-size: 18pt; line-height: 1.3; }
+  .memo-tag, .memo-meta { color: #333; font-size: 9pt; }
+  .memo-meta { gap: 5pt 12pt; }
+  .memo-intro, .memo-section p, .memo-section li { color: #222; font-size: 10.5pt; line-height: 1.5; }
+  .memo-section h3 { font-size: 12pt; margin-bottom: 6pt; }
+  .memo-findings { margin-top: 12pt; }
+  .currency-note { display: block; margin: 0 0 12pt; font-size: 9pt; color: #222; }
+  .currency-note .currency-detail { display: inline !important; color: #222; }
+  .lab-banner { display: block; color: #111; background: #fff; border: 1px solid #999; break-inside: avoid; }
+  .lab-banner a { display: block; color: #222; white-space: normal; }
+  .footer { display: block; margin-top: 12pt; padding-top: 6pt; border-top: 1px solid #bbb; font-size: 8pt; color: #333; break-inside: avoid; }
+  .footer > span { display: block; }
+  .mono, .source-grid .hash, .source-file { overflow-wrap: anywhere; word-break: normal; }
+  .source-grid .hash, .source-file .mono { font-size: 8pt; }
+  .print-only { display: block; font-size: 8pt; color: #333; }
+}
