@@ -55,5 +55,26 @@ test('Every current report period, industry and basis renders from real source v
   assert.ok(!app.innerHTML.includes('Official rounded month-over-month estimate'));
   const c=comparison(data,'total','2026-10','sa');
   assert.equal(c.value,748220);assert.equal(c.previous,746637);
+  // The audit has a fixed scope even after another industry/month was selected.
+  change('market-month','2025-10');change('market-category','447');change('market-basis','nsa');click({view:'trust'});
+  assert.ok(app.innerHTML.includes('aria-label="Download source audit"'));
+  click({action:'source'});
+  assert.ok(dialog.innerHTML.includes('2026-10')&&dialog.innerHTML.includes('748,220')&&dialog.innerHTML.includes('column J'));
+  assert.ok(!dialog.innerHTML.includes('Gasoline stations'));
+  click({action:'close'});
+  let capturedBlob;
+  globalThis.document.createElement=()=>({click(){}});
+  URL.createObjectURL=blob=>{capturedBlob=blob;return 'blob:report-test';};
+  URL.revokeObjectURL=()=>{};
+  click({action:'audit'});
+  const audit=JSON.parse(await capturedBlob.text());
+  assert.equal(audit.points['total|2026-10'].sa,748220);
+  assert.equal(audit.points['total|2026-10'].source.sa.column,'J');
+  click({view:'overview'});click({action:'export'});
+  const exported=await capturedBlob.text();
+  const source=data.points['447|2025-10'].source.nsa;
+  assert.ok(exported.includes(`"Source worksheet","${source.sheet}"`));
+  assert.ok(exported.includes(`"Source row",${source.row}`));
+  assert.ok(exported.includes(`"Source column","${source.column}"`));
   console.log(`Rendered ${renders+1} current-market route/filter combinations.`);
 });
