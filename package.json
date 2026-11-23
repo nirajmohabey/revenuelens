@@ -1,0 +1,14 @@
+{
+  "name": "revenuelens",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A reproducible historical retail investigation with invoice evidence, customer cohorts, and an interactive report.",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "test": "node scripts/check.mjs",
+    "serve": "node scripts/serve.mjs"
+  }
+}

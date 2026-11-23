@@ -1,0 +1,1501 @@
+month,category,adjustment,value,valueStatus,status,file,sheet,row,column
+2026-01,total,nsa,640890,observed,historical,mrts,2026,7,3
+2026-02,total,nsa,625789,observed,historical,mrts,2026,7,4
+2026-03,total,nsa,727278,observed,historical,mrts,2026,7,5
+2026-04,total,nsa,722302,observed,historical,mrts,2026,7,6
+2026-05,total,nsa,760550,observed,historical,mrts,2026,7,7
+2026-06,total,nsa,741344,observed,historical,mrts,2026,7,8
+2026-07,total,nsa,749221,observed,historical,mrts,2026,7,9
+2026-08,total,nsa,751781,observed,historical,mrts,2026,7,10
+2026-09,total,nsa,728961,observed,preliminary,mrts,2026,7,11
+2026-01,_retail,nsa,560686,observed,historical,mrts,2026,11,3
+2026-02,_retail,nsa,546173,observed,historical,mrts,2026,11,4
+2026-03,_retail,nsa,637027,observed,historical,mrts,2026,11,5
+2026-04,_retail,nsa,633425,observed,historical,mrts,2026,11,6
+2026-05,_retail,nsa,664214,observed,historical,mrts,2026,11,7
+2026-06,_retail,nsa,649437,observed,historical,mrts,2026,11,8
+2026-07,_retail,nsa,655940,observed,historical,mrts,2026,11,9
+2026-08,_retail,nsa,656992,observed,historical,mrts,2026,11,10
+2026-09,_retail,nsa,637194,observed,preliminary,mrts,2026,11,11
+2026-01,441,nsa,120466,observed,historical,mrts,2026,14,3
+2026-02,441,nsa,124383,observed,historical,mrts,2026,14,4
+2026-03,441,nsa,147035,observed,historical,mrts,2026,14,5
+2026-04,441,nsa,141998,observed,historical,mrts,2026,14,6
+2026-05,441,nsa,144922,observed,historical,mrts,2026,14,7
+2026-06,441,nsa,144102,observed,historical,mrts,2026,14,8
+2026-07,441,nsa,145159,observed,historical,mrts,2026,14,9
+2026-08,441,nsa,145476,observed,historical,mrts,2026,14,10
+2026-09,441,nsa,137375,observed,preliminary,mrts,2026,14,11
+2026-01,442,nsa,9320,observed,historical,mrts,2026,21,3
+2026-02,442,nsa,9312,observed,historical,mrts,2026,21,4
+2026-03,442,nsa,10782,observed,historical,mrts,2026,21,5
+2026-04,442,nsa,10133,observed,historical,mrts,2026,21,6
+2026-05,442,nsa,10826,observed,historical,mrts,2026,21,7
+2026-06,442,nsa,10518,observed,historical,mrts,2026,21,8
+2026-07,442,nsa,10770,observed,historical,mrts,2026,21,9
+2026-08,442,nsa,10745,observed,historical,mrts,2026,21,10
+2026-09,442,nsa,11106,observed,preliminary,mrts,2026,21,11
+2026-01,443,nsa,6850,observed,historical,mrts,2026,26,3
+2026-02,443,nsa,6507,observed,historical,mrts,2026,26,4
+2026-03,443,nsa,7177,observed,historical,mrts,2026,26,5
+2026-04,443,nsa,6942,observed,historical,mrts,2026,26,6
+2026-05,443,nsa,7372,observed,historical,mrts,2026,26,7
+2026-06,443,nsa,7273,observed,historical,mrts,2026,26,8
+2026-07,443,nsa,7570,observed,historical,mrts,2026,26,9
+2026-08,443,nsa,7757,observed,historical,mrts,2026,26,10
+2026-09,443,nsa,7519,observed,preliminary,mrts,2026,26,11
+2026-01,444,nsa,35407,observed,historical,mrts,2026,29,3
+2026-02,444,nsa,34164,observed,historical,mrts,2026,29,4
+2026-03,444,nsa,44054,observed,historical,mrts,2026,29,5
+2026-04,444,nsa,48855,observed,historical,mrts,2026,29,6
+2026-05,444,nsa,49861,observed,historical,mrts,2026,29,7
+2026-06,444,nsa,49977,observed,historical,mrts,2026,29,8
+2026-07,444,nsa,47548,observed,historical,mrts,2026,29,9
+2026-08,444,nsa,44578,observed,historical,mrts,2026,29,10
+2026-09,444,nsa,43898,observed,preliminary,mrts,2026,29,11
+2026-01,445,nsa,83818,observed,historical,mrts,2026,33,3
+2026-02,445,nsa,75317,observed,historical,mrts,2026,33,4
+2026-03,445,nsa,82831,observed,historical,mrts,2026,33,5
+2026-04,445,nsa,82500,observed,historical,mrts,2026,33,6
+2026-05,445,nsa,88011,observed,historical,mrts,2026,33,7
+2026-06,445,nsa,83613,observed,historical,mrts,2026,33,8
+2026-07,445,nsa,87070,observed,historical,mrts,2026,33,9
+2026-08,445,nsa,85435,observed,historical,mrts,2026,33,10
+2026-09,445,nsa,83208,observed,preliminary,mrts,2026,33,11
+2026-01,446,nsa,36008,observed,historical,mrts,2026,37,3
+2026-02,446,nsa,34615,observed,historical,mrts,2026,37,4
+2026-03,446,nsa,38621,observed,historical,mrts,2026,37,5
+2026-04,446,nsa,37643,observed,historical,mrts,2026,37,6
+2026-05,446,nsa,37948,observed,historical,mrts,2026,37,7
+2026-06,446,nsa,38528,observed,historical,mrts,2026,37,8
+2026-07,446,nsa,38544,observed,historical,mrts,2026,37,9
+2026-08,446,nsa,38645,observed,historical,mrts,2026,37,10
+2026-09,446,nsa,40096,observed,preliminary,mrts,2026,37,11
+2026-01,447,nsa,47321,observed,historical,mrts,2026,39,3
+2026-02,447,nsa,45984,observed,historical,mrts,2026,39,4
+2026-03,447,nsa,60057,observed,historical,mrts,2026,39,5
+2026-04,447,nsa,64611,observed,historical,mrts,2026,39,6
+2026-05,447,nsa,69965,observed,historical,mrts,2026,39,7
+2026-06,447,nsa,65394,observed,historical,mrts,2026,39,8
+2026-07,447,nsa,66983,observed,historical,mrts,2026,39,9
+2026-08,447,nsa,68373,observed,historical,mrts,2026,39,10
+2026-09,447,nsa,69135,observed,preliminary,mrts,2026,39,11
+2026-01,448,nsa,19222,observed,historical,mrts,2026,40,3
+2026-02,448,nsa,20874,observed,historical,mrts,2026,40,4
+2026-03,448,nsa,24984,observed,historical,mrts,2026,40,5
+2026-04,448,nsa,24191,observed,historical,mrts,2026,40,6
+2026-05,448,nsa,27373,observed,historical,mrts,2026,40,7
+2026-06,448,nsa,24586,observed,historical,mrts,2026,40,8
+2026-07,448,nsa,26161,observed,historical,mrts,2026,40,9
+2026-08,448,nsa,27309,observed,historical,mrts,2026,40,10
+2026-09,448,nsa,23723,observed,preliminary,mrts,2026,40,11
+2026-01,451,nsa,6921,observed,historical,mrts,2026,48,3
+2026-02,451,nsa,6624,observed,historical,mrts,2026,48,4
+2026-03,451,nsa,8050,observed,historical,mrts,2026,48,5
+2026-04,451,nsa,7758,observed,historical,mrts,2026,48,6
+2026-05,451,nsa,8539,observed,historical,mrts,2026,48,7
+2026-06,451,nsa,8611,observed,historical,mrts,2026,48,8
+2026-07,451,nsa,8623,observed,historical,mrts,2026,48,9
+2026-08,451,nsa,9503,observed,historical,mrts,2026,48,10
+2026-09,451,nsa,8267,observed,preliminary,mrts,2026,48,11
+2026-01,452,nsa,73042,observed,historical,mrts,2026,52,3
+2026-02,452,nsa,69034,observed,historical,mrts,2026,52,4
+2026-03,452,nsa,79392,observed,historical,mrts,2026,52,5
+2026-04,452,nsa,77024,observed,historical,mrts,2026,52,6
+2026-05,452,nsa,84242,observed,historical,mrts,2026,52,7
+2026-06,452,nsa,79132,observed,historical,mrts,2026,52,8
+2026-07,452,nsa,81243,observed,historical,mrts,2026,52,9
+2026-08,452,nsa,83624,observed,historical,mrts,2026,52,10
+2026-09,452,nsa,77139,observed,preliminary,mrts,2026,52,11
+2026-01,453,nsa,13272,observed,historical,mrts,2026,58,3
+2026-02,453,nsa,13136,observed,historical,mrts,2026,58,4
+2026-03,453,nsa,14839,observed,historical,mrts,2026,58,5
+2026-04,453,nsa,14731,observed,historical,mrts,2026,58,6
+2026-05,453,nsa,16669,observed,historical,mrts,2026,58,7
+2026-06,453,nsa,17158,observed,historical,mrts,2026,58,8
+2026-07,453,nsa,16469,observed,historical,mrts,2026,58,9
+2026-08,453,nsa,16466,observed,historical,mrts,2026,58,10
+2026-09,453,nsa,15755,observed,preliminary,mrts,2026,58,11
+2026-01,454,nsa,109039,observed,historical,mrts,2026,63,3
+2026-02,454,nsa,106223,observed,historical,mrts,2026,63,4
+2026-03,454,nsa,119205,observed,historical,mrts,2026,63,5
+2026-04,454,nsa,117039,observed,historical,mrts,2026,63,6
+2026-05,454,nsa,118486,observed,historical,mrts,2026,63,7
+2026-06,454,nsa,120545,observed,historical,mrts,2026,63,8
+2026-07,454,nsa,119800,observed,historical,mrts,2026,63,9
+2026-08,454,nsa,119081,observed,historical,mrts,2026,63,10
+2026-09,454,nsa,119973,observed,preliminary,mrts,2026,63,11
+2026-01,722,nsa,80204,observed,historical,mrts,2026,66,3
+2026-02,722,nsa,79616,observed,historical,mrts,2026,66,4
+2026-03,722,nsa,90251,observed,historical,mrts,2026,66,5
+2026-04,722,nsa,88877,observed,historical,mrts,2026,66,6
+2026-05,722,nsa,96336,observed,historical,mrts,2026,66,7
+2026-06,722,nsa,91907,observed,historical,mrts,2026,66,8
+2026-07,722,nsa,93281,observed,historical,mrts,2026,66,9
+2026-08,722,nsa,94789,observed,historical,mrts,2026,66,10
+2026-09,722,nsa,91767,observed,preliminary,mrts,2026,66,11
+2026-01,total,sa,701860,observed,historical,mrts,2026,72,3
+2026-02,total,sa,707959,observed,historical,mrts,2026,72,4
+2026-03,total,sa,719700,observed,historical,mrts,2026,72,5
+2026-04,total,sa,723921,observed,historical,mrts,2026,72,6
+2026-05,total,sa,731415,observed,historical,mrts,2026,72,7
+2026-06,total,sa,732898,observed,historical,mrts,2026,72,8
+2026-07,total,sa,729915,observed,historical,mrts,2026,72,9
+2026-08,total,sa,740502,observed,historical,mrts,2026,72,10
+2026-09,total,sa,746637,observed,preliminary,mrts,2026,72,11
+2026-01,_retail,sa,614871,observed,historical,mrts,2026,76,3
+2026-02,_retail,sa,620373,observed,historical,mrts,2026,76,4
+2026-03,_retail,sa,631907,observed,historical,mrts,2026,76,5
+2026-04,_retail,sa,635221,observed,historical,mrts,2026,76,6
+2026-05,_retail,sa,641883,observed,historical,mrts,2026,76,7
+2026-06,_retail,sa,642793,observed,historical,mrts,2026,76,8
+2026-07,_retail,sa,639263,observed,historical,mrts,2026,76,9
+2026-08,_retail,sa,648652,observed,historical,mrts,2026,76,10
+2026-09,_retail,sa,653943,observed,preliminary,mrts,2026,76,11
+2026-01,441,sa,134822,observed,historical,mrts,2026,79,3
+2026-02,441,sa,136589,observed,historical,mrts,2026,79,4
+2026-03,441,sa,137299,observed,historical,mrts,2026,79,5
+2026-04,441,sa,136157,observed,historical,mrts,2026,79,6
+2026-05,441,sa,137902,observed,historical,mrts,2026,79,7
+2026-06,441,sa,140955,observed,historical,mrts,2026,79,8
+2026-07,441,sa,138578,observed,historical,mrts,2026,79,9
+2026-08,441,sa,139501,observed,historical,mrts,2026,79,10
+2026-09,441,sa,139228,observed,preliminary,mrts,2026,79,11
+2026-01,442,sa,10321,observed,historical,mrts,2026,83,3
+2026-02,442,sa,10335,observed,historical,mrts,2026,83,4
+2026-03,442,sa,10602,observed,historical,mrts,2026,83,5
+2026-04,442,sa,10446,observed,historical,mrts,2026,83,6
+2026-05,442,sa,10645,observed,historical,mrts,2026,83,7
+2026-06,442,sa,10571,observed,historical,mrts,2026,83,8
+2026-07,442,sa,10538,observed,historical,mrts,2026,83,9
+2026-08,442,sa,10555,observed,historical,mrts,2026,83,10
+2026-09,442,sa,10931,observed,preliminary,mrts,2026,83,11
+2026-01,443,sa,7350,observed,historical,mrts,2026,84,3
+2026-02,443,sa,7437,observed,historical,mrts,2026,84,4
+2026-03,443,sa,7547,observed,historical,mrts,2026,84,5
+2026-04,443,sa,7637,observed,historical,mrts,2026,84,6
+2026-05,443,sa,7616,observed,historical,mrts,2026,84,7
+2026-06,443,sa,7624,observed,historical,mrts,2026,84,8
+2026-07,443,sa,7646,observed,historical,mrts,2026,84,9
+2026-08,443,sa,7796,observed,historical,mrts,2026,84,10
+2026-09,443,sa,7816,observed,preliminary,mrts,2026,84,11
+2026-01,444,sa,43235,observed,historical,mrts,2026,85,3
+2026-02,444,sa,43342,observed,historical,mrts,2026,85,4
+2026-03,444,sa,43842,observed,historical,mrts,2026,85,5
+2026-04,444,sa,43909,observed,historical,mrts,2026,85,6
+2026-05,444,sa,43841,observed,historical,mrts,2026,85,7
+2026-06,444,sa,44366,observed,historical,mrts,2026,85,8
+2026-07,444,sa,44233,observed,historical,mrts,2026,85,9
+2026-08,444,sa,44305,observed,historical,mrts,2026,85,10
+2026-09,444,sa,43959,observed,preliminary,mrts,2026,85,11
+2026-01,445,sa,84384,observed,historical,mrts,2026,87,3
+2026-02,445,sa,83254,observed,historical,mrts,2026,87,4
+2026-03,445,sa,84215,observed,historical,mrts,2026,87,5
+2026-04,445,sa,84723,observed,historical,mrts,2026,87,6
+2026-05,445,sa,84883,observed,historical,mrts,2026,87,7
+2026-06,445,sa,84687,observed,historical,mrts,2026,87,8
+2026-07,445,sa,84556,observed,historical,mrts,2026,87,9
+2026-08,445,sa,84709,observed,historical,mrts,2026,87,10
+2026-09,445,sa,85211,observed,preliminary,mrts,2026,87,11
+2026-01,446,sa,36931,observed,historical,mrts,2026,90,3
+2026-02,446,sa,37584,observed,historical,mrts,2026,90,4
+2026-03,446,sa,38088,observed,historical,mrts,2026,90,5
+2026-04,446,sa,38100,observed,historical,mrts,2026,90,6
+2026-05,446,sa,38448,observed,historical,mrts,2026,90,7
+2026-06,446,sa,38451,observed,historical,mrts,2026,90,8
+2026-07,446,sa,38777,observed,historical,mrts,2026,90,9
+2026-08,446,sa,39353,observed,historical,mrts,2026,90,10
+2026-09,446,sa,39738,observed,preliminary,mrts,2026,90,11
+2026-01,447,sa,52755,observed,historical,mrts,2026,92,3
+2026-02,447,sa,53408,observed,historical,mrts,2026,92,4
+2026-03,447,sa,60359,observed,historical,mrts,2026,92,5
+2026-04,447,sa,63594,observed,historical,mrts,2026,92,6
+2026-05,447,sa,65205,observed,historical,mrts,2026,92,7
+2026-06,447,sa,61634,observed,historical,mrts,2026,92,8
+2026-07,447,sa,61509,observed,historical,mrts,2026,92,9
+2026-08,447,sa,63781,observed,historical,mrts,2026,92,10
+2026-09,447,sa,67581,observed,preliminary,mrts,2026,92,11
+2026-01,448,sa,25344,observed,historical,mrts,2026,93,3
+2026-02,448,sa,25999,observed,historical,mrts,2026,93,4
+2026-03,448,sa,26049,observed,historical,mrts,2026,93,5
+2026-04,448,sa,25864,observed,historical,mrts,2026,93,6
+2026-05,448,sa,26136,observed,historical,mrts,2026,93,7
+2026-06,448,sa,25987,observed,historical,mrts,2026,93,8
+2026-07,448,sa,26327,observed,historical,mrts,2026,93,9
+2026-08,448,sa,26505,observed,historical,mrts,2026,93,10
+2026-09,448,sa,26575,observed,preliminary,mrts,2026,93,11
+2026-01,451,sa,8220,observed,historical,mrts,2026,99,3
+2026-02,451,sa,8395,observed,historical,mrts,2026,99,4
+2026-03,451,sa,8447,observed,historical,mrts,2026,99,5
+2026-04,451,sa,8601,observed,historical,mrts,2026,99,6
+2026-05,451,sa,8643,observed,historical,mrts,2026,99,7
+2026-06,451,sa,8680,observed,historical,mrts,2026,99,8
+2026-07,451,sa,8640,observed,historical,mrts,2026,99,9
+2026-08,451,sa,8734,observed,historical,mrts,2026,99,10
+2026-09,451,sa,8730,observed,preliminary,mrts,2026,99,11
+2026-01,452,sa,79420,observed,historical,mrts,2026,100,3
+2026-02,452,sa,79817,observed,historical,mrts,2026,100,4
+2026-03,452,sa,80601,observed,historical,mrts,2026,100,5
+2026-04,452,sa,80466,observed,historical,mrts,2026,100,6
+2026-05,452,sa,80798,observed,historical,mrts,2026,100,7
+2026-06,452,sa,80870,observed,historical,mrts,2026,100,8
+2026-07,452,sa,81233,observed,historical,mrts,2026,100,9
+2026-08,452,sa,81825,observed,historical,mrts,2026,100,10
+2026-09,452,sa,81718,observed,preliminary,mrts,2026,100,11
+2026-01,453,sa,14966,observed,historical,mrts,2026,105,3
+2026-02,453,sa,15222,observed,historical,mrts,2026,105,4
+2026-03,453,sa,15057,observed,historical,mrts,2026,105,5
+2026-04,453,sa,14942,observed,historical,mrts,2026,105,6
+2026-05,453,sa,15458,observed,historical,mrts,2026,105,7
+2026-06,453,sa,15756,observed,historical,mrts,2026,105,8
+2026-07,453,sa,15759,observed,historical,mrts,2026,105,9
+2026-08,453,sa,16288,observed,historical,mrts,2026,105,10
+2026-09,453,sa,15795,observed,preliminary,mrts,2026,105,11
+2026-01,454,sa,117123,observed,historical,mrts,2026,106,3
+2026-02,454,sa,118991,observed,historical,mrts,2026,106,4
+2026-03,454,sa,119801,observed,historical,mrts,2026,106,5
+2026-04,454,sa,120782,observed,historical,mrts,2026,106,6
+2026-05,454,sa,122308,observed,historical,mrts,2026,106,7
+2026-06,454,sa,123212,observed,historical,mrts,2026,106,8
+2026-07,454,sa,121467,observed,historical,mrts,2026,106,9
+2026-08,454,sa,125300,observed,historical,mrts,2026,106,10
+2026-09,454,sa,126661,observed,preliminary,mrts,2026,106,11
+2026-01,722,sa,86989,observed,historical,mrts,2026,109,3
+2026-02,722,sa,87586,observed,historical,mrts,2026,109,4
+2026-03,722,sa,87793,observed,historical,mrts,2026,109,5
+2026-04,722,sa,88700,observed,historical,mrts,2026,109,6
+2026-05,722,sa,89532,observed,historical,mrts,2026,109,7
+2026-06,722,sa,90105,observed,historical,mrts,2026,109,8
+2026-07,722,sa,90652,observed,historical,mrts,2026,109,9
+2026-08,722,sa,91850,observed,historical,mrts,2026,109,10
+2026-09,722,sa,92694,observed,preliminary,mrts,2026,109,11
+2025-01,total,nsa,629000,observed,historical,mrts,2025,7,3
+2025-02,total,nsa,605151,observed,historical,mrts,2025,7,4
+2025-03,total,nsa,698449,observed,historical,mrts,2025,7,5
+2025-04,total,nsa,696120,observed,historical,mrts,2025,7,6
+2025-05,total,nsa,723761,observed,historical,mrts,2025,7,7
+2025-06,total,nsa,688978,observed,historical,mrts,2025,7,8
+2025-07,total,nsa,715687,observed,historical,mrts,2025,7,9
+2025-08,total,nsa,715547,observed,historical,mrts,2025,7,10
+2025-09,total,nsa,680630,observed,historical,mrts,2025,7,11
+2025-10,total,nsa,712145,observed,historical,mrts,2025,7,12
+2025-11,total,nsa,704758,observed,historical,mrts,2025,7,13
+2025-12,total,nsa,780707,observed,historical,mrts,2025,7,14
+2025-01,_retail,nsa,552246,observed,historical,mrts,2025,11,3
+2025-02,_retail,nsa,529394,observed,historical,mrts,2025,11,4
+2025-03,_retail,nsa,609429,observed,historical,mrts,2025,11,5
+2025-04,_retail,nsa,609634,observed,historical,mrts,2025,11,6
+2025-05,_retail,nsa,630997,observed,historical,mrts,2025,11,7
+2025-06,_retail,nsa,601022,observed,historical,mrts,2025,11,8
+2025-07,_retail,nsa,627499,observed,historical,mrts,2025,11,9
+2025-08,_retail,nsa,624281,observed,historical,mrts,2025,11,10
+2025-09,_retail,nsa,595443,observed,historical,mrts,2025,11,11
+2025-10,_retail,nsa,623604,observed,historical,mrts,2025,11,12
+2025-11,_retail,nsa,620569,observed,historical,mrts,2025,11,13
+2025-12,_retail,nsa,694088,observed,historical,mrts,2025,11,14
+2025-01,441,nsa,120336,observed,historical,mrts,2025,14,3
+2025-02,441,nsa,119906,observed,historical,mrts,2025,14,4
+2025-03,441,nsa,149516,observed,historical,mrts,2025,14,5
+2025-04,441,nsa,144826,observed,historical,mrts,2025,14,6
+2025-05,441,nsa,142182,observed,historical,mrts,2025,14,7
+2025-06,441,nsa,132488,observed,historical,mrts,2025,14,8
+2025-07,441,nsa,141694,observed,historical,mrts,2025,14,9
+2025-08,441,nsa,142382,observed,historical,mrts,2025,14,10
+2025-09,441,nsa,133736,observed,historical,mrts,2025,14,11
+2025-10,441,nsa,134601,observed,historical,mrts,2025,14,12
+2025-11,441,nsa,125757,observed,historical,mrts,2025,14,13
+2025-12,441,nsa,137184,observed,historical,mrts,2025,14,14
+2025-01,442,nsa,9826,observed,historical,mrts,2025,21,3
+2025-02,442,nsa,9821,observed,historical,mrts,2025,21,4
+2025-03,442,nsa,10860,observed,historical,mrts,2025,21,5
+2025-04,442,nsa,10509,observed,historical,mrts,2025,21,6
+2025-05,442,nsa,10997,observed,historical,mrts,2025,21,7
+2025-06,442,nsa,10368,observed,historical,mrts,2025,21,8
+2025-07,442,nsa,11075,observed,historical,mrts,2025,21,9
+2025-08,442,nsa,10941,observed,historical,mrts,2025,21,10
+2025-09,442,nsa,10232,observed,historical,mrts,2025,21,11
+2025-10,442,nsa,10475,observed,historical,mrts,2025,21,12
+2025-11,442,nsa,11068,observed,historical,mrts,2025,21,13
+2025-12,442,nsa,11175,observed,historical,mrts,2025,21,14
+2025-01,443,nsa,6549,observed,historical,mrts,2025,26,3
+2025-02,443,nsa,6146,observed,historical,mrts,2025,26,4
+2025-03,443,nsa,6698,observed,historical,mrts,2025,26,5
+2025-04,443,nsa,6371,observed,historical,mrts,2025,26,6
+2025-05,443,nsa,6964,observed,historical,mrts,2025,26,7
+2025-06,443,nsa,6724,observed,historical,mrts,2025,26,8
+2025-07,443,nsa,7212,observed,historical,mrts,2025,26,9
+2025-08,443,nsa,7158,observed,historical,mrts,2025,26,10
+2025-09,443,nsa,6942,observed,historical,mrts,2025,26,11
+2025-10,443,nsa,7005,observed,historical,mrts,2025,26,12
+2025-11,443,nsa,8283,observed,historical,mrts,2025,26,13
+2025-12,443,nsa,9916,observed,historical,mrts,2025,26,14
+2025-01,444,nsa,34429,observed,historical,mrts,2025,29,3
+2025-02,444,nsa,32944,observed,historical,mrts,2025,29,4
+2025-03,444,nsa,41665,observed,historical,mrts,2025,29,5
+2025-04,444,nsa,47273,observed,historical,mrts,2025,29,6
+2025-05,444,nsa,49214,observed,historical,mrts,2025,29,7
+2025-06,444,nsa,45963,observed,historical,mrts,2025,29,8
+2025-07,444,nsa,45372,observed,historical,mrts,2025,29,9
+2025-08,444,nsa,42258,observed,historical,mrts,2025,29,10
+2025-09,444,nsa,42128,observed,historical,mrts,2025,29,11
+2025-10,444,nsa,44245,observed,historical,mrts,2025,29,12
+2025-11,444,nsa,39779,observed,historical,mrts,2025,29,13
+2025-12,444,nsa,39985,observed,historical,mrts,2025,29,14
+2025-01,445,nsa,82414,observed,historical,mrts,2025,33,3
+2025-02,445,nsa,75713,observed,historical,mrts,2025,33,4
+2025-03,445,nsa,82337,observed,historical,mrts,2025,33,5
+2025-04,445,nsa,81929,observed,historical,mrts,2025,33,6
+2025-05,445,nsa,86507,observed,historical,mrts,2025,33,7
+2025-06,445,nsa,82615,observed,historical,mrts,2025,33,8
+2025-07,445,nsa,86091,observed,historical,mrts,2025,33,9
+2025-08,445,nsa,86054,observed,historical,mrts,2025,33,10
+2025-09,445,nsa,81532,observed,historical,mrts,2025,33,11
+2025-10,445,nsa,85352,observed,historical,mrts,2025,33,12
+2025-11,445,nsa,85194,observed,historical,mrts,2025,33,13
+2025-12,445,nsa,90541,observed,historical,mrts,2025,33,14
+2025-01,446,nsa,37642,observed,historical,mrts,2025,37,3
+2025-02,446,nsa,35460,observed,historical,mrts,2025,37,4
+2025-03,446,nsa,38700,observed,historical,mrts,2025,37,5
+2025-04,446,nsa,38573,observed,historical,mrts,2025,37,6
+2025-05,446,nsa,39135,observed,historical,mrts,2025,37,7
+2025-06,446,nsa,38735,observed,historical,mrts,2025,37,8
+2025-07,446,nsa,39397,observed,historical,mrts,2025,37,9
+2025-08,446,nsa,39130,observed,historical,mrts,2025,37,10
+2025-09,446,nsa,40289,observed,historical,mrts,2025,37,11
+2025-10,446,nsa,41871,observed,historical,mrts,2025,37,12
+2025-11,446,nsa,38125,observed,historical,mrts,2025,37,13
+2025-12,446,nsa,45214,observed,historical,mrts,2025,37,14
+2025-01,447,nsa,48405,observed,historical,mrts,2025,39,3
+2025-02,447,nsa,46218,observed,historical,mrts,2025,39,4
+2025-03,447,nsa,51515,observed,historical,mrts,2025,39,5
+2025-04,447,nsa,52599,observed,historical,mrts,2025,39,6
+2025-05,447,nsa,55651,observed,historical,mrts,2025,39,7
+2025-06,447,nsa,54649,observed,historical,mrts,2025,39,8
+2025-07,447,nsa,57063,observed,historical,mrts,2025,39,9
+2025-08,447,nsa,56909,observed,historical,mrts,2025,39,10
+2025-09,447,nsa,54234,observed,historical,mrts,2025,39,11
+2025-10,447,nsa,55322,observed,historical,mrts,2025,39,12
+2025-11,447,nsa,50922,observed,historical,mrts,2025,39,13
+2025-12,447,nsa,50172,observed,historical,mrts,2025,39,14
+2025-01,448,nsa,18203,observed,historical,mrts,2025,40,3
+2025-02,448,nsa,19221,observed,historical,mrts,2025,40,4
+2025-03,448,nsa,23360,observed,historical,mrts,2025,40,5
+2025-04,448,nsa,23179,observed,historical,mrts,2025,40,6
+2025-05,448,nsa,26171,observed,historical,mrts,2025,40,7
+2025-06,448,nsa,23399,observed,historical,mrts,2025,40,8
+2025-07,448,nsa,25024,observed,historical,mrts,2025,40,9
+2025-08,448,nsa,26435,observed,historical,mrts,2025,40,10
+2025-09,448,nsa,22369,observed,historical,mrts,2025,40,11
+2025-10,448,nsa,24528,observed,historical,mrts,2025,40,12
+2025-11,448,nsa,28902,observed,historical,mrts,2025,40,13
+2025-12,448,nsa,39105,observed,historical,mrts,2025,40,14
+2025-01,451,nsa,6584,observed,historical,mrts,2025,48,3
+2025-02,451,nsa,6101,observed,historical,mrts,2025,48,4
+2025-03,451,nsa,7598,observed,historical,mrts,2025,48,5
+2025-04,451,nsa,7038,observed,historical,mrts,2025,48,6
+2025-05,451,nsa,7723,observed,historical,mrts,2025,48,7
+2025-06,451,nsa,7574,observed,historical,mrts,2025,48,8
+2025-07,451,nsa,7839,observed,historical,mrts,2025,48,9
+2025-08,451,nsa,8738,observed,historical,mrts,2025,48,10
+2025-09,451,nsa,7456,observed,historical,mrts,2025,48,11
+2025-10,451,nsa,7694,observed,historical,mrts,2025,48,12
+2025-11,451,nsa,8946,observed,historical,mrts,2025,48,13
+2025-12,451,nsa,11888,observed,historical,mrts,2025,48,14
+2025-01,452,nsa,70814,observed,historical,mrts,2025,52,3
+2025-02,452,nsa,67323,observed,historical,mrts,2025,52,4
+2025-03,452,nsa,76447,observed,historical,mrts,2025,52,5
+2025-04,452,nsa,75229,observed,historical,mrts,2025,52,6
+2025-05,452,nsa,80504,observed,historical,mrts,2025,52,7
+2025-06,452,nsa,76961,observed,historical,mrts,2025,52,8
+2025-07,452,nsa,77771,observed,historical,mrts,2025,52,9
+2025-08,452,nsa,81276,observed,historical,mrts,2025,52,10
+2025-09,452,nsa,73234,observed,historical,mrts,2025,52,11
+2025-10,452,nsa,79499,observed,historical,mrts,2025,52,12
+2025-11,452,nsa,83496,observed,historical,mrts,2025,52,13
+2025-12,452,nsa,95564,observed,historical,mrts,2025,52,14
+2025-01,453,nsa,11906,observed,historical,mrts,2025,58,3
+2025-02,453,nsa,11609,observed,historical,mrts,2025,58,4
+2025-03,453,nsa,13558,observed,historical,mrts,2025,58,5
+2025-04,453,nsa,13389,observed,historical,mrts,2025,58,6
+2025-05,453,nsa,15419,observed,historical,mrts,2025,58,7
+2025-06,453,nsa,15244,observed,historical,mrts,2025,58,8
+2025-07,453,nsa,14996,observed,historical,mrts,2025,58,9
+2025-08,453,nsa,14070,observed,historical,mrts,2025,58,10
+2025-09,453,nsa,14314,observed,historical,mrts,2025,58,11
+2025-10,453,nsa,15733,observed,historical,mrts,2025,58,12
+2025-11,453,nsa,13991,observed,historical,mrts,2025,58,13
+2025-12,453,nsa,15393,observed,historical,mrts,2025,58,14
+2025-01,454,nsa,105138,observed,historical,mrts,2025,63,3
+2025-02,454,nsa,98932,observed,historical,mrts,2025,63,4
+2025-03,454,nsa,107175,observed,historical,mrts,2025,63,5
+2025-04,454,nsa,108719,observed,historical,mrts,2025,63,6
+2025-05,454,nsa,110530,observed,historical,mrts,2025,63,7
+2025-06,454,nsa,106302,observed,historical,mrts,2025,63,8
+2025-07,454,nsa,113965,observed,historical,mrts,2025,63,9
+2025-08,454,nsa,108930,observed,historical,mrts,2025,63,10
+2025-09,454,nsa,108977,observed,historical,mrts,2025,63,11
+2025-10,454,nsa,117279,observed,historical,mrts,2025,63,12
+2025-11,454,nsa,126106,observed,historical,mrts,2025,63,13
+2025-12,454,nsa,147951,observed,historical,mrts,2025,63,14
+2025-01,722,nsa,76754,observed,historical,mrts,2025,66,3
+2025-02,722,nsa,75757,observed,historical,mrts,2025,66,4
+2025-03,722,nsa,89020,observed,historical,mrts,2025,66,5
+2025-04,722,nsa,86486,observed,historical,mrts,2025,66,6
+2025-05,722,nsa,92764,observed,historical,mrts,2025,66,7
+2025-06,722,nsa,87956,observed,historical,mrts,2025,66,8
+2025-07,722,nsa,88188,observed,historical,mrts,2025,66,9
+2025-08,722,nsa,91266,observed,historical,mrts,2025,66,10
+2025-09,722,nsa,85187,observed,historical,mrts,2025,66,11
+2025-10,722,nsa,88541,observed,historical,mrts,2025,66,12
+2025-11,722,nsa,84189,observed,historical,mrts,2025,66,13
+2025-12,722,nsa,86619,observed,historical,mrts,2025,66,14
+2025-01,total,sa,687058,observed,historical,mrts,2025,72,3
+2025-02,total,sa,683772,observed,historical,mrts,2025,72,4
+2025-03,total,sa,694750,observed,historical,mrts,2025,72,5
+2025-04,total,sa,695464,observed,historical,mrts,2025,72,6
+2025-05,total,sa,685488,observed,historical,mrts,2025,72,7
+2025-06,total,sa,691883,observed,historical,mrts,2025,72,8
+2025-07,total,sa,698280,observed,historical,mrts,2025,72,9
+2025-08,total,sa,700407,observed,historical,mrts,2025,72,10
+2025-09,total,sa,700614,observed,historical,mrts,2025,72,11
+2025-10,total,sa,700427,observed,historical,mrts,2025,72,12
+2025-11,total,sa,705453,observed,historical,mrts,2025,72,13
+2025-12,total,sa,706264,observed,historical,mrts,2025,72,14
+2025-01,_retail,sa,602898,observed,historical,mrts,2025,76,3
+2025-02,_retail,sa,600614,observed,historical,mrts,2025,76,4
+2025-03,_retail,sa,608989,observed,historical,mrts,2025,76,5
+2025-04,_retail,sa,609064,observed,historical,mrts,2025,76,6
+2025-05,_retail,sa,599595,observed,historical,mrts,2025,76,7
+2025-06,_retail,sa,605482,observed,historical,mrts,2025,76,8
+2025-07,_retail,sa,612075,observed,historical,mrts,2025,76,9
+2025-08,_retail,sa,613570,observed,historical,mrts,2025,76,10
+2025-09,_retail,sa,613777,observed,historical,mrts,2025,76,11
+2025-10,_retail,sa,613622,observed,historical,mrts,2025,76,12
+2025-11,_retail,sa,618029,observed,historical,mrts,2025,76,13
+2025-12,_retail,sa,619122,observed,historical,mrts,2025,76,14
+2025-01,441,sa,134679,observed,historical,mrts,2025,79,3
+2025-02,441,sa,131290,observed,historical,mrts,2025,79,4
+2025-03,441,sa,139261,observed,historical,mrts,2025,79,5
+2025-04,441,sa,138629,observed,historical,mrts,2025,79,6
+2025-05,441,sa,131773,observed,historical,mrts,2025,79,7
+2025-06,441,sa,132874,observed,historical,mrts,2025,79,8
+2025-07,441,sa,136092,observed,historical,mrts,2025,79,9
+2025-08,441,sa,136391,observed,historical,mrts,2025,79,10
+2025-09,441,sa,136345,observed,historical,mrts,2025,79,11
+2025-10,441,sa,135216,observed,historical,mrts,2025,79,12
+2025-11,441,sa,136236,observed,historical,mrts,2025,79,13
+2025-12,441,sa,135764,observed,historical,mrts,2025,79,14
+2025-01,442,sa,10857,observed,historical,mrts,2025,83,3
+2025-02,442,sa,10888,observed,historical,mrts,2025,83,4
+2025-03,442,sa,10710,observed,historical,mrts,2025,83,5
+2025-04,442,sa,10823,observed,historical,mrts,2025,83,6
+2025-05,442,sa,10594,observed,historical,mrts,2025,83,7
+2025-06,442,sa,10656,observed,historical,mrts,2025,83,8
+2025-07,442,sa,10901,observed,historical,mrts,2025,83,9
+2025-08,442,sa,10602,observed,historical,mrts,2025,83,10
+2025-09,442,sa,10151,observed,historical,mrts,2025,83,11
+2025-10,442,sa,10423,observed,historical,mrts,2025,83,12
+2025-11,442,sa,10432,observed,historical,mrts,2025,83,13
+2025-12,442,sa,10434,observed,historical,mrts,2025,83,14
+2025-01,443,sa,7004,observed,historical,mrts,2025,84,3
+2025-02,443,sa,7008,observed,historical,mrts,2025,84,4
+2025-03,443,sa,7103,observed,historical,mrts,2025,84,5
+2025-04,443,sa,7087,observed,historical,mrts,2025,84,6
+2025-05,443,sa,7128,observed,historical,mrts,2025,84,7
+2025-06,443,sa,7146,observed,historical,mrts,2025,84,8
+2025-07,443,sa,7270,observed,historical,mrts,2025,84,9
+2025-08,443,sa,7208,observed,historical,mrts,2025,84,10
+2025-09,443,sa,7179,observed,historical,mrts,2025,84,11
+2025-10,443,sa,7259,observed,historical,mrts,2025,84,12
+2025-11,443,sa,7285,observed,historical,mrts,2025,84,13
+2025-12,443,sa,7297,observed,historical,mrts,2025,84,14
+2025-01,444,sa,41247,observed,historical,mrts,2025,85,3
+2025-02,444,sa,41663,observed,historical,mrts,2025,85,4
+2025-03,444,sa,42484,observed,historical,mrts,2025,85,5
+2025-04,444,sa,42769,observed,historical,mrts,2025,85,6
+2025-05,444,sa,41744,observed,historical,mrts,2025,85,7
+2025-06,444,sa,42179,observed,historical,mrts,2025,85,8
+2025-07,444,sa,41887,observed,historical,mrts,2025,85,9
+2025-08,444,sa,42053,observed,historical,mrts,2025,85,10
+2025-09,444,sa,42241,observed,historical,mrts,2025,85,11
+2025-10,444,sa,41826,observed,historical,mrts,2025,85,12
+2025-11,444,sa,42366,observed,historical,mrts,2025,85,13
+2025-12,444,sa,42906,observed,historical,mrts,2025,85,14
+2025-01,445,sa,83273,observed,historical,mrts,2025,87,3
+2025-02,445,sa,83679,observed,historical,mrts,2025,87,4
+2025-03,445,sa,83747,observed,historical,mrts,2025,87,5
+2025-04,445,sa,83642,observed,historical,mrts,2025,87,6
+2025-05,445,sa,82981,observed,historical,mrts,2025,87,7
+2025-06,445,sa,83845,observed,historical,mrts,2025,87,8
+2025-07,445,sa,84025,observed,historical,mrts,2025,87,9
+2025-08,445,sa,84503,observed,historical,mrts,2025,87,10
+2025-09,445,sa,84230,observed,historical,mrts,2025,87,11
+2025-10,445,sa,84309,observed,historical,mrts,2025,87,12
+2025-11,445,sa,84103,observed,historical,mrts,2025,87,13
+2025-12,445,sa,84316,observed,historical,mrts,2025,87,14
+2025-01,446,sa,38022,observed,historical,mrts,2025,90,3
+2025-02,446,sa,38502,observed,historical,mrts,2025,90,4
+2025-03,446,sa,38778,observed,historical,mrts,2025,90,5
+2025-04,446,sa,38963,observed,historical,mrts,2025,90,6
+2025-05,446,sa,38902,observed,historical,mrts,2025,90,7
+2025-06,446,sa,39325,observed,historical,mrts,2025,90,8
+2025-07,446,sa,39675,observed,historical,mrts,2025,90,9
+2025-08,446,sa,39565,observed,historical,mrts,2025,90,10
+2025-09,446,sa,40128,observed,historical,mrts,2025,90,11
+2025-10,446,sa,39915,observed,historical,mrts,2025,90,12
+2025-11,446,sa,40005,observed,historical,mrts,2025,90,13
+2025-12,446,sa,40226,observed,historical,mrts,2025,90,14
+2025-01,447,sa,54144,observed,historical,mrts,2025,92,3
+2025-02,447,sa,53679,observed,historical,mrts,2025,92,4
+2025-03,447,sa,51983,observed,historical,mrts,2025,92,5
+2025-04,447,sa,51873,observed,historical,mrts,2025,92,6
+2025-05,447,sa,51386,observed,historical,mrts,2025,92,7
+2025-06,447,sa,51997,observed,historical,mrts,2025,92,8
+2025-07,447,sa,52399,observed,historical,mrts,2025,92,9
+2025-08,447,sa,52840,observed,historical,mrts,2025,92,10
+2025-09,447,sa,53119,observed,historical,mrts,2025,92,11
+2025-10,447,sa,52637,observed,historical,mrts,2025,92,12
+2025-11,447,sa,54172,observed,historical,mrts,2025,92,13
+2025-12,447,sa,54476,observed,historical,mrts,2025,92,14
+2025-01,448,sa,24313,observed,historical,mrts,2025,93,3
+2025-02,448,sa,23918,observed,historical,mrts,2025,93,4
+2025-03,448,sa,24349,observed,historical,mrts,2025,93,5
+2025-04,448,sa,24534,observed,historical,mrts,2025,93,6
+2025-05,448,sa,24612,observed,historical,mrts,2025,93,7
+2025-06,448,sa,24967,observed,historical,mrts,2025,93,8
+2025-07,448,sa,25254,observed,historical,mrts,2025,93,9
+2025-08,448,sa,25400,observed,historical,mrts,2025,93,10
+2025-09,448,sa,25130,observed,historical,mrts,2025,93,11
+2025-10,448,sa,25576,observed,historical,mrts,2025,93,12
+2025-11,448,sa,25696,observed,historical,mrts,2025,93,13
+2025-12,448,sa,25539,observed,historical,mrts,2025,93,14
+2025-01,451,sa,7773,observed,historical,mrts,2025,99,3
+2025-02,451,sa,7723,observed,historical,mrts,2025,99,4
+2025-03,451,sa,8066,observed,historical,mrts,2025,99,5
+2025-04,451,sa,7700,observed,historical,mrts,2025,99,6
+2025-05,451,sa,7777,observed,historical,mrts,2025,99,7
+2025-06,451,sa,7752,observed,historical,mrts,2025,99,8
+2025-07,451,sa,7926,observed,historical,mrts,2025,99,9
+2025-08,451,sa,7973,observed,historical,mrts,2025,99,10
+2025-09,451,sa,7873,observed,historical,mrts,2025,99,11
+2025-10,451,sa,8099,observed,historical,mrts,2025,99,12
+2025-11,451,sa,8162,observed,historical,mrts,2025,99,13
+2025-12,451,sa,8182,observed,historical,mrts,2025,99,14
+2025-01,452,sa,78367,observed,historical,mrts,2025,100,3
+2025-02,452,sa,77807,observed,historical,mrts,2025,100,4
+2025-03,452,sa,77885,observed,historical,mrts,2025,100,5
+2025-04,452,sa,77819,observed,historical,mrts,2025,100,6
+2025-05,452,sa,77053,observed,historical,mrts,2025,100,7
+2025-06,452,sa,78195,observed,historical,mrts,2025,100,8
+2025-07,452,sa,78389,observed,historical,mrts,2025,100,9
+2025-08,452,sa,78235,observed,historical,mrts,2025,100,10
+2025-09,452,sa,78297,observed,historical,mrts,2025,100,11
+2025-10,452,sa,79029,observed,historical,mrts,2025,100,12
+2025-11,452,sa,78899,observed,historical,mrts,2025,100,13
+2025-12,452,sa,79019,observed,historical,mrts,2025,100,14
+2025-01,453,sa,13453,observed,historical,mrts,2025,105,3
+2025-02,453,sa,13550,observed,historical,mrts,2025,105,4
+2025-03,453,sa,13962,observed,historical,mrts,2025,105,5
+2025-04,453,sa,13504,observed,historical,mrts,2025,105,6
+2025-05,453,sa,13992,observed,historical,mrts,2025,105,7
+2025-06,453,sa,14367,observed,historical,mrts,2025,105,8
+2025-07,453,sa,14317,observed,historical,mrts,2025,105,9
+2025-08,453,sa,13817,observed,historical,mrts,2025,105,10
+2025-09,453,sa,14335,observed,historical,mrts,2025,105,11
+2025-10,453,sa,14598,observed,historical,mrts,2025,105,12
+2025-11,453,sa,14789,observed,historical,mrts,2025,105,13
+2025-12,453,sa,14737,observed,historical,mrts,2025,105,14
+2025-01,454,sa,109766,observed,historical,mrts,2025,106,3
+2025-02,454,sa,110907,observed,historical,mrts,2025,106,4
+2025-03,454,sa,110661,observed,historical,mrts,2025,106,5
+2025-04,454,sa,111721,observed,historical,mrts,2025,106,6
+2025-05,454,sa,111653,observed,historical,mrts,2025,106,7
+2025-06,454,sa,112179,observed,historical,mrts,2025,106,8
+2025-07,454,sa,113940,observed,historical,mrts,2025,106,9
+2025-08,454,sa,114983,observed,historical,mrts,2025,106,10
+2025-09,454,sa,114749,observed,historical,mrts,2025,106,11
+2025-10,454,sa,114735,observed,historical,mrts,2025,106,12
+2025-11,454,sa,115884,observed,historical,mrts,2025,106,13
+2025-12,454,sa,116226,observed,historical,mrts,2025,106,14
+2025-01,722,sa,84160,observed,historical,mrts,2025,109,3
+2025-02,722,sa,83158,observed,historical,mrts,2025,109,4
+2025-03,722,sa,85761,observed,historical,mrts,2025,109,5
+2025-04,722,sa,86400,observed,historical,mrts,2025,109,6
+2025-05,722,sa,85893,observed,historical,mrts,2025,109,7
+2025-06,722,sa,86401,observed,historical,mrts,2025,109,8
+2025-07,722,sa,86205,observed,historical,mrts,2025,109,9
+2025-08,722,sa,86837,observed,historical,mrts,2025,109,10
+2025-09,722,sa,86837,observed,historical,mrts,2025,109,11
+2025-10,722,sa,86805,observed,historical,mrts,2025,109,12
+2025-11,722,sa,87424,observed,historical,mrts,2025,109,13
+2025-12,722,sa,87142,observed,historical,mrts,2025,109,14
+2024-01,total,nsa,603091,observed,historical,mrts,2024,7,3
+2024-02,total,nsa,611376,observed,historical,mrts,2024,7,4
+2024-03,total,nsa,671159,observed,historical,mrts,2024,7,5
+2024-04,total,nsa,664415,observed,historical,mrts,2024,7,6
+2024-05,total,nsa,705583,observed,historical,mrts,2024,7,7
+2024-06,total,nsa,664197,observed,historical,mrts,2024,7,8
+2024-07,total,nsa,688322,observed,historical,mrts,2024,7,9
+2024-08,total,nsa,694625,observed,historical,mrts,2024,7,10
+2024-09,total,nsa,646460,observed,historical,mrts,2024,7,11
+2024-10,total,nsa,691772,observed,historical,mrts,2024,7,12
+2024-11,total,nsa,694948,observed,historical,mrts,2024,7,13
+2024-12,total,nsa,754951,observed,historical,mrts,2024,7,14
+2024-01,_retail,nsa,529976,observed,historical,mrts,2024,11,3
+2024-02,_retail,nsa,534513,observed,historical,mrts,2024,11,4
+2024-03,_retail,nsa,586713,observed,historical,mrts,2024,11,5
+2024-04,_retail,nsa,582673,observed,historical,mrts,2024,11,6
+2024-05,_retail,nsa,619145,observed,historical,mrts,2024,11,7
+2024-06,_retail,nsa,580837,observed,historical,mrts,2024,11,8
+2024-07,_retail,nsa,605196,observed,historical,mrts,2024,11,9
+2024-08,_retail,nsa,608862,observed,historical,mrts,2024,11,10
+2024-09,_retail,nsa,565772,observed,historical,mrts,2024,11,11
+2024-10,_retail,nsa,607700,observed,historical,mrts,2024,11,12
+2024-11,_retail,nsa,613721,observed,historical,mrts,2024,11,13
+2024-12,_retail,nsa,671589,observed,historical,mrts,2024,11,14
+2024-01,441,nsa,116599,observed,historical,mrts,2024,14,3
+2024-02,441,nsa,124541,observed,historical,mrts,2024,14,4
+2024-03,441,nsa,138212,observed,historical,mrts,2024,14,5
+2024-04,441,nsa,135933,observed,historical,mrts,2024,14,6
+2024-05,441,nsa,141223,observed,historical,mrts,2024,14,7
+2024-06,441,nsa,126993,observed,historical,mrts,2024,14,8
+2024-07,441,nsa,136334,observed,historical,mrts,2024,14,9
+2024-08,441,nsa,138876,observed,historical,mrts,2024,14,10
+2024-09,441,nsa,124140,observed,historical,mrts,2024,14,11
+2024-10,441,nsa,132885,observed,historical,mrts,2024,14,12
+2024-11,441,nsa,129432,observed,historical,mrts,2024,14,13
+2024-12,441,nsa,134897,observed,historical,mrts,2024,14,14
+2024-01,442,nsa,9255,observed,historical,mrts,2024,21,3
+2024-02,442,nsa,9600,observed,historical,mrts,2024,21,4
+2024-03,442,nsa,10214,observed,historical,mrts,2024,21,5
+2024-04,442,nsa,9772,observed,historical,mrts,2024,21,6
+2024-05,442,nsa,10507,observed,historical,mrts,2024,21,7
+2024-06,442,nsa,9950,observed,historical,mrts,2024,21,8
+2024-07,442,nsa,10462,observed,historical,mrts,2024,21,9
+2024-08,442,nsa,10949,observed,historical,mrts,2024,21,10
+2024-09,442,nsa,10369,observed,historical,mrts,2024,21,11
+2024-10,442,nsa,10504,observed,historical,mrts,2024,21,12
+2024-11,442,nsa,11644,observed,historical,mrts,2024,21,13
+2024-12,442,nsa,11800,observed,historical,mrts,2024,21,14
+2024-01,443,nsa,6727,observed,historical,mrts,2024,26,3
+2024-02,443,nsa,6606,observed,historical,mrts,2024,26,4
+2024-03,443,nsa,6557,observed,historical,mrts,2024,26,5
+2024-04,443,nsa,6345,observed,historical,mrts,2024,26,6
+2024-05,443,nsa,6951,observed,historical,mrts,2024,26,7
+2024-06,443,nsa,6625,observed,historical,mrts,2024,26,8
+2024-07,443,nsa,6943,observed,historical,mrts,2024,26,9
+2024-08,443,nsa,6960,observed,historical,mrts,2024,26,10
+2024-09,443,nsa,6379,observed,historical,mrts,2024,26,11
+2024-10,443,nsa,6627,observed,historical,mrts,2024,26,12
+2024-11,443,nsa,8047,observed,historical,mrts,2024,26,13
+2024-12,443,nsa,9516,observed,historical,mrts,2024,26,14
+2024-01,444,nsa,34281,observed,historical,mrts,2024,29,3
+2024-02,444,nsa,35321,observed,historical,mrts,2024,29,4
+2024-03,444,nsa,40470,observed,historical,mrts,2024,29,5
+2024-04,444,nsa,46828,observed,historical,mrts,2024,29,6
+2024-05,444,nsa,50729,observed,historical,mrts,2024,29,7
+2024-06,444,nsa,45536,observed,historical,mrts,2024,29,8
+2024-07,444,nsa,46138,observed,historical,mrts,2024,29,9
+2024-08,444,nsa,44741,observed,historical,mrts,2024,29,10
+2024-09,444,nsa,42053,observed,historical,mrts,2024,29,11
+2024-10,444,nsa,46866,observed,historical,mrts,2024,29,12
+2024-11,444,nsa,41945,observed,historical,mrts,2024,29,13
+2024-12,444,nsa,38729,observed,historical,mrts,2024,29,14
+2024-01,445,nsa,78366,observed,historical,mrts,2024,33,3
+2024-02,445,nsa,75385,observed,historical,mrts,2024,33,4
+2024-03,445,nsa,81740,observed,historical,mrts,2024,33,5
+2024-04,445,nsa,77426,observed,historical,mrts,2024,33,6
+2024-05,445,nsa,84291,observed,historical,mrts,2024,33,7
+2024-06,445,nsa,81330,observed,historical,mrts,2024,33,8
+2024-07,445,nsa,83706,observed,historical,mrts,2024,33,9
+2024-08,445,nsa,83635,observed,historical,mrts,2024,33,10
+2024-09,445,nsa,79670,observed,historical,mrts,2024,33,11
+2024-10,445,nsa,83198,observed,historical,mrts,2024,33,12
+2024-11,445,nsa,84444,observed,historical,mrts,2024,33,13
+2024-12,445,nsa,88960,observed,historical,mrts,2024,33,14
+2024-01,446,nsa,34501,observed,historical,mrts,2024,37,3
+2024-02,446,nsa,33333,observed,historical,mrts,2024,37,4
+2024-03,446,nsa,34786,observed,historical,mrts,2024,37,5
+2024-04,446,nsa,34744,observed,historical,mrts,2024,37,6
+2024-05,446,nsa,36006,observed,historical,mrts,2024,37,7
+2024-06,446,nsa,34695,observed,historical,mrts,2024,37,8
+2024-07,446,nsa,36920,observed,historical,mrts,2024,37,9
+2024-08,446,nsa,37634,observed,historical,mrts,2024,37,10
+2024-09,446,nsa,37452,observed,historical,mrts,2024,37,11
+2024-10,446,nsa,39488,observed,historical,mrts,2024,37,12
+2024-11,446,nsa,37161,observed,historical,mrts,2024,37,13
+2024-12,446,nsa,42166,observed,historical,mrts,2024,37,14
+2024-01,447,nsa,46860,observed,historical,mrts,2024,39,3
+2024-02,447,nsa,47849,observed,historical,mrts,2024,39,4
+2024-03,447,nsa,53661,observed,historical,mrts,2024,39,5
+2024-04,447,nsa,55661,observed,historical,mrts,2024,39,6
+2024-05,447,nsa,58463,observed,historical,mrts,2024,39,7
+2024-06,447,nsa,56208,observed,historical,mrts,2024,39,8
+2024-07,447,nsa,58406,observed,historical,mrts,2024,39,9
+2024-08,447,nsa,57831,observed,historical,mrts,2024,39,10
+2024-09,447,nsa,52176,observed,historical,mrts,2024,39,11
+2024-10,447,nsa,54791,observed,historical,mrts,2024,39,12
+2024-11,447,nsa,49947,observed,historical,mrts,2024,39,13
+2024-12,447,nsa,49177,observed,historical,mrts,2024,39,14
+2024-01,448,nsa,17405,observed,historical,mrts,2024,40,3
+2024-02,448,nsa,19902,observed,historical,mrts,2024,40,4
+2024-03,448,nsa,22718,observed,historical,mrts,2024,40,5
+2024-04,448,nsa,21804,observed,historical,mrts,2024,40,6
+2024-05,448,nsa,24934,observed,historical,mrts,2024,40,7
+2024-06,448,nsa,22850,observed,historical,mrts,2024,40,8
+2024-07,448,nsa,23110,observed,historical,mrts,2024,40,9
+2024-08,448,nsa,24671,observed,historical,mrts,2024,40,10
+2024-09,448,nsa,20888,observed,historical,mrts,2024,40,11
+2024-10,448,nsa,22871,observed,historical,mrts,2024,40,12
+2024-11,448,nsa,26942,observed,historical,mrts,2024,40,13
+2024-12,448,nsa,37096,observed,historical,mrts,2024,40,14
+2024-01,451,nsa,6528,observed,historical,mrts,2024,48,3
+2024-02,451,nsa,6375,observed,historical,mrts,2024,48,4
+2024-03,451,nsa,7424,observed,historical,mrts,2024,48,5
+2024-04,451,nsa,6844,observed,historical,mrts,2024,48,6
+2024-05,451,nsa,7513,observed,historical,mrts,2024,48,7
+2024-06,451,nsa,7666,observed,historical,mrts,2024,48,8
+2024-07,451,nsa,7538,observed,historical,mrts,2024,48,9
+2024-08,451,nsa,8370,observed,historical,mrts,2024,48,10
+2024-09,451,nsa,7308,observed,historical,mrts,2024,48,11
+2024-10,451,nsa,7408,observed,historical,mrts,2024,48,12
+2024-11,451,nsa,8712,observed,historical,mrts,2024,48,13
+2024-12,451,nsa,11245,observed,historical,mrts,2024,48,14
+2024-01,452,nsa,66540,observed,historical,mrts,2024,52,3
+2024-02,452,nsa,67880,observed,historical,mrts,2024,52,4
+2024-03,452,nsa,76251,observed,historical,mrts,2024,52,5
+2024-04,452,nsa,71292,observed,historical,mrts,2024,52,6
+2024-05,452,nsa,78362,observed,historical,mrts,2024,52,7
+2024-06,452,nsa,75941,observed,historical,mrts,2024,52,8
+2024-07,452,nsa,75724,observed,historical,mrts,2024,52,9
+2024-08,452,nsa,79312,observed,historical,mrts,2024,52,10
+2024-09,452,nsa,72526,observed,historical,mrts,2024,52,11
+2024-10,452,nsa,77313,observed,historical,mrts,2024,52,12
+2024-11,452,nsa,82382,observed,historical,mrts,2024,52,13
+2024-12,452,nsa,94879,observed,historical,mrts,2024,52,14
+2024-01,453,nsa,11325,observed,historical,mrts,2024,58,3
+2024-02,453,nsa,11516,observed,historical,mrts,2024,58,4
+2024-03,453,nsa,12789,observed,historical,mrts,2024,58,5
+2024-04,453,nsa,13182,observed,historical,mrts,2024,58,6
+2024-05,453,nsa,14160,observed,historical,mrts,2024,58,7
+2024-06,453,nsa,13512,observed,historical,mrts,2024,58,8
+2024-07,453,nsa,13316,observed,historical,mrts,2024,58,9
+2024-08,453,nsa,13561,observed,historical,mrts,2024,58,10
+2024-09,453,nsa,13085,observed,historical,mrts,2024,58,11
+2024-10,453,nsa,14179,observed,historical,mrts,2024,58,12
+2024-11,453,nsa,12289,observed,historical,mrts,2024,58,13
+2024-12,453,nsa,13856,observed,historical,mrts,2024,58,14
+2024-01,454,nsa,101589,observed,historical,mrts,2024,63,3
+2024-02,454,nsa,96205,observed,historical,mrts,2024,63,4
+2024-03,454,nsa,101891,observed,historical,mrts,2024,63,5
+2024-04,454,nsa,102842,observed,historical,mrts,2024,63,6
+2024-05,454,nsa,106006,observed,historical,mrts,2024,63,7
+2024-06,454,nsa,99531,observed,historical,mrts,2024,63,8
+2024-07,454,nsa,106599,observed,historical,mrts,2024,63,9
+2024-08,454,nsa,102322,observed,historical,mrts,2024,63,10
+2024-09,454,nsa,99726,observed,historical,mrts,2024,63,11
+2024-10,454,nsa,111570,observed,historical,mrts,2024,63,12
+2024-11,454,nsa,120776,observed,historical,mrts,2024,63,13
+2024-12,454,nsa,139268,observed,historical,mrts,2024,63,14
+2024-01,722,nsa,73115,observed,historical,mrts,2024,66,3
+2024-02,722,nsa,76863,observed,historical,mrts,2024,66,4
+2024-03,722,nsa,84446,observed,historical,mrts,2024,66,5
+2024-04,722,nsa,81742,observed,historical,mrts,2024,66,6
+2024-05,722,nsa,86438,observed,historical,mrts,2024,66,7
+2024-06,722,nsa,83360,observed,historical,mrts,2024,66,8
+2024-07,722,nsa,83126,observed,historical,mrts,2024,66,9
+2024-08,722,nsa,85763,observed,historical,mrts,2024,66,10
+2024-09,722,nsa,80688,observed,historical,mrts,2024,66,11
+2024-10,722,nsa,84072,observed,historical,mrts,2024,66,12
+2024-11,722,nsa,81227,observed,historical,mrts,2024,66,13
+2024-12,722,nsa,83362,observed,historical,mrts,2024,66,14
+2024-01,total,sa,660602,observed,historical,mrts,2024,72,3
+2024-02,total,sa,664621,observed,historical,mrts,2024,72,4
+2024-03,total,sa,664328,observed,historical,mrts,2024,72,5
+2024-04,total,sa,664858,observed,historical,mrts,2024,72,6
+2024-05,total,sa,667659,observed,historical,mrts,2024,72,7
+2024-06,total,sa,666040,observed,historical,mrts,2024,72,8
+2024-07,total,sa,673662,observed,historical,mrts,2024,72,9
+2024-08,total,sa,670668,observed,historical,mrts,2024,72,10
+2024-09,total,sa,676005,observed,historical,mrts,2024,72,11
+2024-10,total,sa,681808,observed,historical,mrts,2024,72,12
+2024-11,total,sa,685709,observed,historical,mrts,2024,72,13
+2024-12,total,sa,691794,observed,historical,mrts,2024,72,14
+2024-01,_retail,sa,579633,observed,historical,mrts,2024,76,3
+2024-02,_retail,sa,583370,observed,historical,mrts,2024,76,4
+2024-03,_retail,sa,583596,observed,historical,mrts,2024,76,5
+2024-04,_retail,sa,583925,observed,historical,mrts,2024,76,6
+2024-05,_retail,sa,586649,observed,historical,mrts,2024,76,7
+2024-06,_retail,sa,585029,observed,historical,mrts,2024,76,8
+2024-07,_retail,sa,592166,observed,historical,mrts,2024,76,9
+2024-08,_retail,sa,589144,observed,historical,mrts,2024,76,10
+2024-09,_retail,sa,593417,observed,historical,mrts,2024,76,11
+2024-10,_retail,sa,598403,observed,historical,mrts,2024,76,12
+2024-11,_retail,sa,602142,observed,historical,mrts,2024,76,13
+2024-12,_retail,sa,608097,observed,historical,mrts,2024,76,14
+2024-01,441,sa,130506,observed,historical,mrts,2024,79,3
+2024-02,441,sa,131530,observed,historical,mrts,2024,79,4
+2024-03,441,sa,129963,observed,historical,mrts,2024,79,5
+2024-04,441,sa,129054,observed,historical,mrts,2024,79,6
+2024-05,441,sa,130975,observed,historical,mrts,2024,79,7
+2024-06,441,sa,126432,observed,historical,mrts,2024,79,8
+2024-07,441,sa,131018,observed,historical,mrts,2024,79,9
+2024-08,441,sa,130115,observed,historical,mrts,2024,79,10
+2024-09,441,sa,130052,observed,historical,mrts,2024,79,11
+2024-10,441,sa,133086,observed,historical,mrts,2024,79,12
+2024-11,441,sa,136661,observed,historical,mrts,2024,79,13
+2024-12,441,sa,137376,observed,historical,mrts,2024,79,14
+2024-01,442,sa,10329,observed,historical,mrts,2024,83,3
+2024-02,442,sa,10235,observed,historical,mrts,2024,83,4
+2024-03,442,sa,9965,observed,historical,mrts,2024,83,5
+2024-04,442,sa,10064,observed,historical,mrts,2024,83,6
+2024-05,442,sa,10132,observed,historical,mrts,2024,83,7
+2024-06,442,sa,10226,observed,historical,mrts,2024,83,8
+2024-07,442,sa,10389,observed,historical,mrts,2024,83,9
+2024-08,442,sa,10339,observed,historical,mrts,2024,83,10
+2024-09,442,sa,10602,observed,historical,mrts,2024,83,11
+2024-10,442,sa,10483,observed,historical,mrts,2024,83,12
+2024-11,442,sa,10683,observed,historical,mrts,2024,83,13
+2024-12,442,sa,11227,observed,historical,mrts,2024,83,14
+2024-01,443,sa,7187,observed,historical,mrts,2024,84,3
+2024-02,443,sa,7212,observed,historical,mrts,2024,84,4
+2024-03,443,sa,6946,observed,historical,mrts,2024,84,5
+2024-04,443,sa,7097,observed,historical,mrts,2024,84,6
+2024-05,443,sa,7173,observed,historical,mrts,2024,84,7
+2024-06,443,sa,7078,observed,historical,mrts,2024,84,8
+2024-07,443,sa,7056,observed,historical,mrts,2024,84,9
+2024-08,443,sa,6925,observed,historical,mrts,2024,84,10
+2024-09,443,sa,6680,observed,historical,mrts,2024,84,11
+2024-10,443,sa,6874,observed,historical,mrts,2024,84,12
+2024-11,443,sa,6943,observed,historical,mrts,2024,84,13
+2024-12,443,sa,7007,observed,historical,mrts,2024,84,14
+2024-01,444,sa,41039,observed,historical,mrts,2024,85,3
+2024-02,444,sa,42446,observed,historical,mrts,2024,85,4
+2024-03,444,sa,41968,observed,historical,mrts,2024,85,5
+2024-04,444,sa,41912,observed,historical,mrts,2024,85,6
+2024-05,444,sa,42255,observed,historical,mrts,2024,85,7
+2024-06,444,sa,42413,observed,historical,mrts,2024,85,8
+2024-07,444,sa,43097,observed,historical,mrts,2024,85,9
+2024-08,444,sa,43004,observed,historical,mrts,2024,85,10
+2024-09,444,sa,43412,observed,historical,mrts,2024,85,11
+2024-10,444,sa,43841,observed,historical,mrts,2024,85,12
+2024-11,444,sa,43606,observed,historical,mrts,2024,85,13
+2024-12,444,sa,42677,observed,historical,mrts,2024,85,14
+2024-01,445,sa,80210,observed,historical,mrts,2024,87,3
+2024-02,445,sa,80352,observed,historical,mrts,2024,87,4
+2024-03,445,sa,80787,observed,historical,mrts,2024,87,5
+2024-04,445,sa,81392,observed,historical,mrts,2024,87,6
+2024-05,445,sa,81153,observed,historical,mrts,2024,87,7
+2024-06,445,sa,81548,observed,historical,mrts,2024,87,8
+2024-07,445,sa,82236,observed,historical,mrts,2024,87,9
+2024-08,445,sa,81682,observed,historical,mrts,2024,87,10
+2024-09,445,sa,82507,observed,historical,mrts,2024,87,11
+2024-10,445,sa,82715,observed,historical,mrts,2024,87,12
+2024-11,445,sa,82588,observed,historical,mrts,2024,87,13
+2024-12,445,sa,83375,observed,historical,mrts,2024,87,14
+2024-01,446,sa,34640,observed,historical,mrts,2024,90,3
+2024-02,446,sa,34831,observed,historical,mrts,2024,90,4
+2024-03,446,sa,34682,observed,historical,mrts,2024,90,5
+2024-04,446,sa,35166,observed,historical,mrts,2024,90,6
+2024-05,446,sa,35404,observed,historical,mrts,2024,90,7
+2024-06,446,sa,35694,observed,historical,mrts,2024,90,8
+2024-07,446,sa,37143,observed,historical,mrts,2024,90,9
+2024-08,446,sa,37372,observed,historical,mrts,2024,90,10
+2024-09,446,sa,38100,observed,historical,mrts,2024,90,11
+2024-10,446,sa,38006,observed,historical,mrts,2024,90,12
+2024-11,446,sa,38153,observed,historical,mrts,2024,90,13
+2024-12,446,sa,38090,observed,historical,mrts,2024,90,14
+2024-01,447,sa,52593,observed,historical,mrts,2024,92,3
+2024-02,447,sa,53284,observed,historical,mrts,2024,92,4
+2024-03,447,sa,53985,observed,historical,mrts,2024,92,5
+2024-04,447,sa,55219,observed,historical,mrts,2024,92,6
+2024-05,447,sa,54132,observed,historical,mrts,2024,92,7
+2024-06,447,sa,53430,observed,historical,mrts,2024,92,8
+2024-07,447,sa,53682,observed,historical,mrts,2024,92,9
+2024-08,447,sa,52910,observed,historical,mrts,2024,92,10
+2024-09,447,sa,51865,observed,historical,mrts,2024,92,11
+2024-10,447,sa,52331,observed,historical,mrts,2024,92,12
+2024-11,447,sa,52410,observed,historical,mrts,2024,92,13
+2024-12,447,sa,53745,observed,historical,mrts,2024,92,14
+2024-01,448,sa,23607,observed,historical,mrts,2024,93,3
+2024-02,448,sa,23737,observed,historical,mrts,2024,93,4
+2024-03,448,sa,22867,observed,historical,mrts,2024,93,5
+2024-04,448,sa,23613,observed,historical,mrts,2024,93,6
+2024-05,448,sa,23812,observed,historical,mrts,2024,93,7
+2024-06,448,sa,23883,observed,historical,mrts,2024,93,8
+2024-07,448,sa,23770,observed,historical,mrts,2024,93,9
+2024-08,448,sa,23489,observed,historical,mrts,2024,93,10
+2024-09,448,sa,23736,observed,historical,mrts,2024,93,11
+2024-10,448,sa,23867,observed,historical,mrts,2024,93,12
+2024-11,448,sa,23860,observed,historical,mrts,2024,93,13
+2024-12,448,sa,24245,observed,historical,mrts,2024,93,14
+2024-01,451,sa,7680,observed,historical,mrts,2024,99,3
+2024-02,451,sa,7832,observed,historical,mrts,2024,99,4
+2024-03,451,sa,7662,observed,historical,mrts,2024,99,5
+2024-04,451,sa,7596,observed,historical,mrts,2024,99,6
+2024-05,451,sa,7651,observed,historical,mrts,2024,99,7
+2024-06,451,sa,7751,observed,historical,mrts,2024,99,8
+2024-07,451,sa,7591,observed,historical,mrts,2024,99,9
+2024-08,451,sa,7630,observed,historical,mrts,2024,99,10
+2024-09,451,sa,7850,observed,historical,mrts,2024,99,11
+2024-10,451,sa,7765,observed,historical,mrts,2024,99,12
+2024-11,451,sa,7730,observed,historical,mrts,2024,99,13
+2024-12,451,sa,7913,observed,historical,mrts,2024,99,14
+2024-01,452,sa,74770,observed,historical,mrts,2024,100,3
+2024-02,452,sa,75739,observed,historical,mrts,2024,100,4
+2024-03,452,sa,75466,observed,historical,mrts,2024,100,5
+2024-04,452,sa,75439,observed,historical,mrts,2024,100,6
+2024-05,452,sa,75814,observed,historical,mrts,2024,100,7
+2024-06,452,sa,75938,observed,historical,mrts,2024,100,8
+2024-07,452,sa,76890,observed,historical,mrts,2024,100,9
+2024-08,452,sa,76419,observed,historical,mrts,2024,100,10
+2024-09,452,sa,77255,observed,historical,mrts,2024,100,11
+2024-10,452,sa,77437,observed,historical,mrts,2024,100,12
+2024-11,452,sa,77575,observed,historical,mrts,2024,100,13
+2024-12,452,sa,78030,observed,historical,mrts,2024,100,14
+2024-01,453,sa,12844,observed,historical,mrts,2024,105,3
+2024-02,453,sa,12953,observed,historical,mrts,2024,105,4
+2024-03,453,sa,13204,observed,historical,mrts,2024,105,5
+2024-04,453,sa,13144,observed,historical,mrts,2024,105,6
+2024-05,453,sa,12825,observed,historical,mrts,2024,105,7
+2024-06,453,sa,12861,observed,historical,mrts,2024,105,8
+2024-07,453,sa,12826,observed,historical,mrts,2024,105,9
+2024-08,453,sa,13078,observed,historical,mrts,2024,105,10
+2024-09,453,sa,13310,observed,historical,mrts,2024,105,11
+2024-10,453,sa,13176,observed,historical,mrts,2024,105,12
+2024-11,453,sa,12756,observed,historical,mrts,2024,105,13
+2024-12,453,sa,13416,observed,historical,mrts,2024,105,14
+2024-01,454,sa,104228,observed,historical,mrts,2024,106,3
+2024-02,454,sa,103219,observed,historical,mrts,2024,106,4
+2024-03,454,sa,106101,observed,historical,mrts,2024,106,5
+2024-04,454,sa,104229,observed,historical,mrts,2024,106,6
+2024-05,454,sa,105323,observed,historical,mrts,2024,106,7
+2024-06,454,sa,107775,observed,historical,mrts,2024,106,8
+2024-07,454,sa,106468,observed,historical,mrts,2024,106,9
+2024-08,454,sa,106181,observed,historical,mrts,2024,106,10
+2024-09,454,sa,108048,observed,historical,mrts,2024,106,11
+2024-10,454,sa,108822,observed,historical,mrts,2024,106,12
+2024-11,454,sa,109177,observed,historical,mrts,2024,106,13
+2024-12,454,sa,110996,observed,historical,mrts,2024,106,14
+2024-01,722,sa,80969,observed,historical,mrts,2024,109,3
+2024-02,722,sa,81251,observed,historical,mrts,2024,109,4
+2024-03,722,sa,80732,observed,historical,mrts,2024,109,5
+2024-04,722,sa,80933,observed,historical,mrts,2024,109,6
+2024-05,722,sa,81010,observed,historical,mrts,2024,109,7
+2024-06,722,sa,81011,observed,historical,mrts,2024,109,8
+2024-07,722,sa,81496,observed,historical,mrts,2024,109,9
+2024-08,722,sa,81524,observed,historical,mrts,2024,109,10
+2024-09,722,sa,82588,observed,historical,mrts,2024,109,11
+2024-10,722,sa,83405,observed,historical,mrts,2024,109,12
+2024-11,722,sa,83567,observed,historical,mrts,2024,109,13
+2024-12,722,sa,83697,observed,historical,mrts,2024,109,14
+2023-01,total,nsa,609481,observed,historical,mrts,2023,7,3
+2023-02,total,nsa,587988,observed,historical,mrts,2023,7,4
+2023-03,total,nsa,670460,observed,historical,mrts,2023,7,5
+2023-04,total,nsa,652055,observed,historical,mrts,2023,7,6
+2023-05,total,nsa,696485,observed,historical,mrts,2023,7,7
+2023-06,total,nsa,675653,observed,historical,mrts,2023,7,8
+2023-07,total,nsa,668702,observed,historical,mrts,2023,7,9
+2023-08,total,nsa,689161,observed,historical,mrts,2023,7,10
+2023-09,total,nsa,652547,observed,historical,mrts,2023,7,11
+2023-10,total,nsa,666746,observed,historical,mrts,2023,7,12
+2023-11,total,nsa,674963,observed,historical,mrts,2023,7,13
+2023-12,total,nsa,728144,observed,historical,mrts,2023,7,14
+2023-01,_retail,nsa,535871,observed,historical,mrts,2023,11,3
+2023-02,_retail,nsa,516236,observed,historical,mrts,2023,11,4
+2023-03,_retail,nsa,588747,observed,historical,mrts,2023,11,5
+2023-04,_retail,nsa,572941,observed,historical,mrts,2023,11,6
+2023-05,_retail,nsa,613691,observed,historical,mrts,2023,11,7
+2023-06,_retail,nsa,594147,observed,historical,mrts,2023,11,8
+2023-07,_retail,nsa,586678,observed,historical,mrts,2023,11,9
+2023-08,_retail,nsa,607777,observed,historical,mrts,2023,11,10
+2023-09,_retail,nsa,572898,observed,historical,mrts,2023,11,11
+2023-10,_retail,nsa,586400,observed,historical,mrts,2023,11,12
+2023-11,_retail,nsa,598630,observed,historical,mrts,2023,11,13
+2023-12,_retail,nsa,645247,observed,historical,mrts,2023,11,14
+2023-01,441,nsa,121080,observed,historical,mrts,2023,14,3
+2023-02,441,nsa,121641,observed,historical,mrts,2023,14,4
+2023-03,441,nsa,144719,observed,historical,mrts,2023,14,5
+2023-04,441,nsa,136197,observed,historical,mrts,2023,14,6
+2023-05,441,nsa,145343,observed,historical,mrts,2023,14,7
+2023-06,441,nsa,141939,observed,historical,mrts,2023,14,8
+2023-07,441,nsa,136939,observed,historical,mrts,2023,14,9
+2023-08,441,nsa,143128,observed,historical,mrts,2023,14,10
+2023-09,441,nsa,134190,observed,historical,mrts,2023,14,11
+2023-10,441,nsa,129682,observed,historical,mrts,2023,14,12
+2023-11,441,nsa,123935,observed,historical,mrts,2023,14,13
+2023-12,441,nsa,129719,observed,historical,mrts,2023,14,14
+2023-01,442,nsa,10747,observed,historical,mrts,2023,21,3
+2023-02,442,nsa,10286,observed,historical,mrts,2023,21,4
+2023-03,442,nsa,11636,observed,historical,mrts,2023,21,5
+2023-04,442,nsa,10451,observed,historical,mrts,2023,21,6
+2023-05,442,nsa,11081,observed,historical,mrts,2023,21,7
+2023-06,442,nsa,10845,observed,historical,mrts,2023,21,8
+2023-07,442,nsa,10498,observed,historical,mrts,2023,21,9
+2023-08,442,nsa,11195,observed,historical,mrts,2023,21,10
+2023-09,442,nsa,10557,observed,historical,mrts,2023,21,11
+2023-10,442,nsa,10157,observed,historical,mrts,2023,21,12
+2023-11,442,nsa,11383,observed,historical,mrts,2023,21,13
+2023-12,442,nsa,10965,observed,historical,mrts,2023,21,14
+2023-01,443,nsa,6973,observed,historical,mrts,2023,26,3
+2023-02,443,nsa,6330,observed,historical,mrts,2023,26,4
+2023-03,443,nsa,6920,observed,historical,mrts,2023,26,5
+2023-04,443,nsa,6157,observed,historical,mrts,2023,26,6
+2023-05,443,nsa,6686,observed,historical,mrts,2023,26,7
+2023-06,443,nsa,6751,observed,historical,mrts,2023,26,8
+2023-07,443,nsa,6599,observed,historical,mrts,2023,26,9
+2023-08,443,nsa,7003,observed,historical,mrts,2023,26,10
+2023-09,443,nsa,6858,observed,historical,mrts,2023,26,11
+2023-10,443,nsa,6772,observed,historical,mrts,2023,26,12
+2023-11,443,nsa,7986,observed,historical,mrts,2023,26,13
+2023-12,443,nsa,9087,observed,historical,mrts,2023,26,14
+2023-01,444,nsa,36402,observed,historical,mrts,2023,29,3
+2023-02,444,nsa,35263,observed,historical,mrts,2023,29,4
+2023-03,444,nsa,43501,observed,historical,mrts,2023,29,5
+2023-04,444,nsa,45017,observed,historical,mrts,2023,29,6
+2023-05,444,nsa,52820,observed,historical,mrts,2023,29,7
+2023-06,444,nsa,48344,observed,historical,mrts,2023,29,8
+2023-07,444,nsa,43838,observed,historical,mrts,2023,29,9
+2023-08,444,nsa,45884,observed,historical,mrts,2023,29,10
+2023-09,444,nsa,41707,observed,historical,mrts,2023,29,11
+2023-10,444,nsa,43770,observed,historical,mrts,2023,29,12
+2023-11,444,nsa,41604,observed,historical,mrts,2023,29,13
+2023-12,444,nsa,38334,observed,historical,mrts,2023,29,14
+2023-01,445,nsa,77522,observed,historical,mrts,2023,33,3
+2023-02,445,nsa,72858,observed,historical,mrts,2023,33,4
+2023-03,445,nsa,79366,observed,historical,mrts,2023,33,5
+2023-04,445,nsa,78218,observed,historical,mrts,2023,33,6
+2023-05,445,nsa,81949,observed,historical,mrts,2023,33,7
+2023-06,445,nsa,79768,observed,historical,mrts,2023,33,8
+2023-07,445,nsa,81604,observed,historical,mrts,2023,33,9
+2023-08,445,nsa,81294,observed,historical,mrts,2023,33,10
+2023-09,445,nsa,79120,observed,historical,mrts,2023,33,11
+2023-10,445,nsa,79859,observed,historical,mrts,2023,33,12
+2023-11,445,nsa,81792,observed,historical,mrts,2023,33,13
+2023-12,445,nsa,87603,observed,historical,mrts,2023,33,14
+2023-01,446,nsa,32406,observed,historical,mrts,2023,37,3
+2023-02,446,nsa,30504,observed,historical,mrts,2023,37,4
+2023-03,446,nsa,34108,observed,historical,mrts,2023,37,5
+2023-04,446,nsa,32159,observed,historical,mrts,2023,37,6
+2023-05,446,nsa,34328,observed,historical,mrts,2023,37,7
+2023-06,446,nsa,33843,observed,historical,mrts,2023,37,8
+2023-07,446,nsa,32270,observed,historical,mrts,2023,37,9
+2023-08,446,nsa,34661,observed,historical,mrts,2023,37,10
+2023-09,446,nsa,33486,observed,historical,mrts,2023,37,11
+2023-10,446,nsa,35940,observed,historical,mrts,2023,37,12
+2023-11,446,nsa,34855,observed,historical,mrts,2023,37,13
+2023-12,446,nsa,38082,observed,historical,mrts,2023,37,14
+2023-01,447,nsa,49467,observed,historical,mrts,2023,39,3
+2023-02,447,nsa,47051,observed,historical,mrts,2023,39,4
+2023-03,447,nsa,53995,observed,historical,mrts,2023,39,5
+2023-04,447,nsa,53159,observed,historical,mrts,2023,39,6
+2023-05,447,nsa,56333,observed,historical,mrts,2023,39,7
+2023-06,447,nsa,55902,observed,historical,mrts,2023,39,8
+2023-07,447,nsa,56616,observed,historical,mrts,2023,39,9
+2023-08,447,nsa,60629,observed,historical,mrts,2023,39,10
+2023-09,447,nsa,58008,observed,historical,mrts,2023,39,11
+2023-10,447,nsa,58056,observed,historical,mrts,2023,39,12
+2023-11,447,nsa,51795,observed,historical,mrts,2023,39,13
+2023-12,447,nsa,49122,observed,historical,mrts,2023,39,14
+2023-01,448,nsa,17604,observed,historical,mrts,2023,40,3
+2023-02,448,nsa,18965,observed,historical,mrts,2023,40,4
+2023-03,448,nsa,22550,observed,historical,mrts,2023,40,5
+2023-04,448,nsa,22340,observed,historical,mrts,2023,40,6
+2023-05,448,nsa,23966,observed,historical,mrts,2023,40,7
+2023-06,448,nsa,22397,observed,historical,mrts,2023,40,8
+2023-07,448,nsa,22924,observed,historical,mrts,2023,40,9
+2023-08,448,nsa,24500,observed,historical,mrts,2023,40,10
+2023-09,448,nsa,21445,observed,historical,mrts,2023,40,11
+2023-10,448,nsa,21990,observed,historical,mrts,2023,40,12
+2023-11,448,nsa,26116,observed,historical,mrts,2023,40,13
+2023-12,448,nsa,37253,observed,historical,mrts,2023,40,14
+2023-01,451,nsa,6559,observed,historical,mrts,2023,48,3
+2023-02,451,nsa,6094,observed,historical,mrts,2023,48,4
+2023-03,451,nsa,7399,observed,historical,mrts,2023,48,5
+2023-04,451,nsa,7145,observed,historical,mrts,2023,48,6
+2023-05,451,nsa,7477,observed,historical,mrts,2023,48,7
+2023-06,451,nsa,7754,observed,historical,mrts,2023,48,8
+2023-07,451,nsa,7652,observed,historical,mrts,2023,48,9
+2023-08,451,nsa,8332,observed,historical,mrts,2023,48,10
+2023-09,451,nsa,7427,observed,historical,mrts,2023,48,11
+2023-10,451,nsa,7182,observed,historical,mrts,2023,48,12
+2023-11,451,nsa,8489,observed,historical,mrts,2023,48,13
+2023-12,451,nsa,10811,observed,historical,mrts,2023,48,14
+2023-01,452,nsa,69032,observed,historical,mrts,2023,52,3
+2023-02,452,nsa,66395,observed,historical,mrts,2023,52,4
+2023-03,452,nsa,71337,observed,historical,mrts,2023,52,5
+2023-04,452,nsa,73503,observed,historical,mrts,2023,52,6
+2023-05,452,nsa,75910,observed,historical,mrts,2023,52,7
+2023-06,452,nsa,74219,observed,historical,mrts,2023,52,8
+2023-07,452,nsa,74312,observed,historical,mrts,2023,52,9
+2023-08,452,nsa,75948,observed,historical,mrts,2023,52,10
+2023-09,452,nsa,71269,observed,historical,mrts,2023,52,11
+2023-10,452,nsa,74102,observed,historical,mrts,2023,52,12
+2023-11,452,nsa,78154,observed,historical,mrts,2023,52,13
+2023-12,452,nsa,93247,observed,historical,mrts,2023,52,14
+2023-01,453,nsa,11452,observed,historical,mrts,2023,58,3
+2023-02,453,nsa,10982,observed,historical,mrts,2023,58,4
+2023-03,453,nsa,12618,observed,historical,mrts,2023,58,5
+2023-04,453,nsa,12798,observed,historical,mrts,2023,58,6
+2023-05,453,nsa,14295,observed,historical,mrts,2023,58,7
+2023-06,453,nsa,14198,observed,historical,mrts,2023,58,8
+2023-07,453,nsa,13146,observed,historical,mrts,2023,58,9
+2023-08,453,nsa,13026,observed,historical,mrts,2023,58,10
+2023-09,453,nsa,13012,observed,historical,mrts,2023,58,11
+2023-10,453,nsa,13811,observed,historical,mrts,2023,58,12
+2023-11,453,nsa,12990,observed,historical,mrts,2023,58,13
+2023-12,453,nsa,13459,observed,historical,mrts,2023,58,14
+2023-01,454,nsa,96627,observed,historical,mrts,2023,63,3
+2023-02,454,nsa,89867,observed,historical,mrts,2023,63,4
+2023-03,454,nsa,100598,observed,historical,mrts,2023,63,5
+2023-04,454,nsa,95797,observed,historical,mrts,2023,63,6
+2023-05,454,nsa,103503,observed,historical,mrts,2023,63,7
+2023-06,454,nsa,98187,observed,historical,mrts,2023,63,8
+2023-07,454,nsa,100280,observed,historical,mrts,2023,63,9
+2023-08,454,nsa,102177,observed,historical,mrts,2023,63,10
+2023-09,454,nsa,95819,observed,historical,mrts,2023,63,11
+2023-10,454,nsa,105079,observed,historical,mrts,2023,63,12
+2023-11,454,nsa,119531,observed,historical,mrts,2023,63,13
+2023-12,454,nsa,127565,observed,historical,mrts,2023,63,14
+2023-01,722,nsa,73610,observed,historical,mrts,2023,66,3
+2023-02,722,nsa,71752,observed,historical,mrts,2023,66,4
+2023-03,722,nsa,81713,observed,historical,mrts,2023,66,5
+2023-04,722,nsa,79114,observed,historical,mrts,2023,66,6
+2023-05,722,nsa,82794,observed,historical,mrts,2023,66,7
+2023-06,722,nsa,81506,observed,historical,mrts,2023,66,8
+2023-07,722,nsa,82024,observed,historical,mrts,2023,66,9
+2023-08,722,nsa,81384,observed,historical,mrts,2023,66,10
+2023-09,722,nsa,79649,observed,historical,mrts,2023,66,11
+2023-10,722,nsa,80346,observed,historical,mrts,2023,66,12
+2023-11,722,nsa,76333,observed,historical,mrts,2023,66,13
+2023-12,722,nsa,82897,observed,historical,mrts,2023,66,14
+2023-01,total,sa,674646,observed,historical,mrts,2023,72,3
+2023-02,total,sa,664692,observed,historical,mrts,2023,72,4
+2023-03,total,sa,655146,observed,historical,mrts,2023,72,5
+2023-04,total,sa,658962,observed,historical,mrts,2023,72,6
+2023-05,total,sa,662303,observed,historical,mrts,2023,72,7
+2023-06,total,sa,664476,observed,historical,mrts,2023,72,8
+2023-07,total,sa,663391,observed,historical,mrts,2023,72,9
+2023-08,total,sa,667632,observed,historical,mrts,2023,72,10
+2023-09,total,sa,671096,observed,historical,mrts,2023,72,11
+2023-10,total,sa,667815,observed,historical,mrts,2023,72,12
+2023-11,total,sa,666419,observed,historical,mrts,2023,72,13
+2023-12,total,sa,666963,observed,historical,mrts,2023,72,14
+2023-01,_retail,sa,593578,observed,historical,mrts,2023,76,3
+2023-02,_retail,sa,586275,observed,historical,mrts,2023,76,4
+2023-03,_retail,sa,576877,observed,historical,mrts,2023,76,5
+2023-04,_retail,sa,580940,observed,historical,mrts,2023,76,6
+2023-05,_retail,sa,583751,observed,historical,mrts,2023,76,7
+2023-06,_retail,sa,585497,observed,historical,mrts,2023,76,8
+2023-07,_retail,sa,583987,observed,historical,mrts,2023,76,9
+2023-08,_retail,sa,588310,observed,historical,mrts,2023,76,10
+2023-09,_retail,sa,591207,observed,historical,mrts,2023,76,11
+2023-10,_retail,sa,587869,observed,historical,mrts,2023,76,12
+2023-11,_retail,sa,585643,observed,historical,mrts,2023,76,13
+2023-12,_retail,sa,585850,observed,historical,mrts,2023,76,14
+2023-01,441,sa,138963,observed,historical,mrts,2023,79,3
+2023-02,441,sa,133838,observed,historical,mrts,2023,79,4
+2023-03,441,sa,131904,observed,historical,mrts,2023,79,5
+2023-04,441,sa,133217,observed,historical,mrts,2023,79,6
+2023-05,441,sa,135191,observed,historical,mrts,2023,79,7
+2023-06,441,sa,137583,observed,historical,mrts,2023,79,8
+2023-07,441,sa,134733,observed,historical,mrts,2023,79,9
+2023-08,441,sa,134927,observed,historical,mrts,2023,79,10
+2023-09,441,sa,135824,observed,historical,mrts,2023,79,11
+2023-10,441,sa,133373,observed,historical,mrts,2023,79,12
+2023-11,441,sa,132139,observed,historical,mrts,2023,79,13
+2023-12,441,sa,131018,observed,historical,mrts,2023,79,14
+2023-01,442,sa,12226,observed,historical,mrts,2023,83,3
+2023-02,442,sa,11429,observed,historical,mrts,2023,83,4
+2023-03,442,sa,11103,observed,historical,mrts,2023,83,5
+2023-04,442,sa,10943,observed,historical,mrts,2023,83,6
+2023-05,442,sa,10811,observed,historical,mrts,2023,83,7
+2023-06,442,sa,10845,observed,historical,mrts,2023,83,8
+2023-07,442,sa,10690,observed,historical,mrts,2023,83,9
+2023-08,442,sa,10642,observed,historical,mrts,2023,83,10
+2023-09,442,sa,10452,observed,historical,mrts,2023,83,11
+2023-10,442,sa,10343,observed,historical,mrts,2023,83,12
+2023-11,442,sa,10520,observed,historical,mrts,2023,83,13
+2023-12,442,sa,10344,observed,historical,mrts,2023,83,14
+2023-01,443,sa,7482,observed,historical,mrts,2023,84,3
+2023-02,443,sa,7193,observed,historical,mrts,2023,84,4
+2023-03,443,sa,7216,observed,historical,mrts,2023,84,5
+2023-04,443,sa,7053,observed,historical,mrts,2023,84,6
+2023-05,443,sa,7016,observed,historical,mrts,2023,84,7
+2023-06,443,sa,7091,observed,historical,mrts,2023,84,8
+2023-07,443,sa,6853,observed,historical,mrts,2023,84,9
+2023-08,443,sa,7003,observed,historical,mrts,2023,84,10
+2023-09,443,sa,7063,observed,historical,mrts,2023,84,11
+2023-10,443,sa,7084,observed,historical,mrts,2023,84,12
+2023-11,443,sa,6843,observed,historical,mrts,2023,84,13
+2023-12,443,sa,6652,observed,historical,mrts,2023,84,14
+2023-01,444,sa,44453,observed,historical,mrts,2023,85,3
+2023-02,444,sa,44384,observed,historical,mrts,2023,85,4
+2023-03,444,sa,42267,observed,historical,mrts,2023,85,5
+2023-04,444,sa,42779,observed,historical,mrts,2023,85,6
+2023-05,444,sa,43973,observed,historical,mrts,2023,85,7
+2023-06,444,sa,42900,observed,historical,mrts,2023,85,8
+2023-07,444,sa,42933,observed,historical,mrts,2023,85,9
+2023-08,444,sa,43083,observed,historical,mrts,2023,85,10
+2023-09,444,sa,42827,observed,historical,mrts,2023,85,11
+2023-10,444,sa,42548,observed,historical,mrts,2023,85,12
+2023-11,444,sa,42556,observed,historical,mrts,2023,85,13
+2023-12,444,sa,42843,observed,historical,mrts,2023,85,14
+2023-01,445,sa,79851,observed,historical,mrts,2023,87,3
+2023-02,445,sa,80538,observed,historical,mrts,2023,87,4
+2023-03,445,sa,80001,observed,historical,mrts,2023,87,5
+2023-04,445,sa,79709,observed,historical,mrts,2023,87,6
+2023-05,445,sa,79860,observed,historical,mrts,2023,87,7
+2023-06,445,sa,79792,observed,historical,mrts,2023,87,8
+2023-07,445,sa,79889,observed,historical,mrts,2023,87,9
+2023-08,445,sa,80259,observed,historical,mrts,2023,87,10
+2023-09,445,sa,80342,observed,historical,mrts,2023,87,11
+2023-10,445,sa,80364,observed,historical,mrts,2023,87,12
+2023-11,445,sa,80638,observed,historical,mrts,2023,87,13
+2023-12,445,sa,80508,observed,historical,mrts,2023,87,14
+2023-01,446,sa,32966,observed,historical,mrts,2023,90,3
+2023-02,446,sa,33121,observed,historical,mrts,2023,90,4
+2023-03,446,sa,33211,observed,historical,mrts,2023,90,5
+2023-04,446,sa,33429,observed,historical,mrts,2023,90,6
+2023-05,446,sa,33754,observed,historical,mrts,2023,90,7
+2023-06,446,sa,33708,observed,historical,mrts,2023,90,8
+2023-07,446,sa,33440,observed,historical,mrts,2023,90,9
+2023-08,446,sa,34182,observed,historical,mrts,2023,90,10
+2023-09,446,sa,33927,observed,historical,mrts,2023,90,11
+2023-10,446,sa,35235,observed,historical,mrts,2023,90,12
+2023-11,446,sa,35458,observed,historical,mrts,2023,90,13
+2023-12,446,sa,34715,observed,historical,mrts,2023,90,14
+2023-01,447,sa,55581,observed,historical,mrts,2023,92,3
+2023-02,447,sa,54394,observed,historical,mrts,2023,92,4
+2023-03,447,sa,54103,observed,historical,mrts,2023,92,5
+2023-04,447,sa,53534,observed,historical,mrts,2023,92,6
+2023-05,447,sa,52500,observed,historical,mrts,2023,92,7
+2023-06,447,sa,52294,observed,historical,mrts,2023,92,8
+2023-07,447,sa,52133,observed,historical,mrts,2023,92,9
+2023-08,447,sa,55725,observed,historical,mrts,2023,92,10
+2023-09,447,sa,57377,observed,historical,mrts,2023,92,11
+2023-10,447,sa,55877,observed,historical,mrts,2023,92,12
+2023-11,447,sa,54122,observed,historical,mrts,2023,92,13
+2023-12,447,sa,53627,observed,historical,mrts,2023,92,14
+2023-01,448,sa,23967,observed,historical,mrts,2023,93,3
+2023-02,448,sa,23602,observed,historical,mrts,2023,93,4
+2023-03,448,sa,23240,observed,historical,mrts,2023,93,5
+2023-04,448,sa,23294,observed,historical,mrts,2023,93,6
+2023-05,448,sa,23223,observed,historical,mrts,2023,93,7
+2023-06,448,sa,23267,observed,historical,mrts,2023,93,8
+2023-07,448,sa,23453,observed,historical,mrts,2023,93,9
+2023-08,448,sa,23734,observed,historical,mrts,2023,93,10
+2023-09,448,sa,23546,observed,historical,mrts,2023,93,11
+2023-10,448,sa,23350,observed,historical,mrts,2023,93,12
+2023-11,448,sa,23521,observed,historical,mrts,2023,93,13
+2023-12,448,sa,23864,observed,historical,mrts,2023,93,14
+2023-01,451,sa,7799,observed,historical,mrts,2023,99,3
+2023-02,451,sa,7724,observed,historical,mrts,2023,99,4
+2023-03,451,sa,7667,observed,historical,mrts,2023,99,5
+2023-04,451,sa,7783,observed,historical,mrts,2023,99,6
+2023-05,451,sa,7708,observed,historical,mrts,2023,99,7
+2023-06,451,sa,7677,observed,historical,mrts,2023,99,8
+2023-07,451,sa,7848,observed,historical,mrts,2023,99,9
+2023-08,451,sa,7672,observed,historical,mrts,2023,99,10
+2023-09,451,sa,7649,observed,historical,mrts,2023,99,11
+2023-10,451,sa,7665,observed,historical,mrts,2023,99,12
+2023-11,451,sa,7731,observed,historical,mrts,2023,99,13
+2023-12,451,sa,7508,observed,historical,mrts,2023,99,14
+2023-01,452,sa,77390,observed,historical,mrts,2023,100,3
+2023-02,452,sa,76846,observed,historical,mrts,2023,100,4
+2023-03,452,sa,73610,observed,historical,mrts,2023,100,5
+2023-04,452,sa,74308,observed,historical,mrts,2023,100,6
+2023-05,452,sa,74183,observed,historical,mrts,2023,100,7
+2023-06,452,sa,74462,observed,historical,mrts,2023,100,8
+2023-07,452,sa,74382,observed,historical,mrts,2023,100,9
+2023-08,452,sa,74750,observed,historical,mrts,2023,100,10
+2023-09,452,sa,74476,observed,historical,mrts,2023,100,11
+2023-10,452,sa,74367,observed,historical,mrts,2023,100,12
+2023-11,452,sa,74534,observed,historical,mrts,2023,100,13
+2023-12,452,sa,75044,observed,historical,mrts,2023,100,14
+2023-01,453,sa,13157,observed,historical,mrts,2023,105,3
+2023-02,453,sa,12923,observed,historical,mrts,2023,105,4
+2023-03,453,sa,12687,observed,historical,mrts,2023,105,5
+2023-04,453,sa,13129,observed,historical,mrts,2023,105,6
+2023-05,453,sa,13063,observed,historical,mrts,2023,105,7
+2023-06,453,sa,13217,observed,historical,mrts,2023,105,8
+2023-07,453,sa,12949,observed,historical,mrts,2023,105,9
+2023-08,453,sa,12413,observed,historical,mrts,2023,105,10
+2023-09,453,sa,12981,observed,historical,mrts,2023,105,11
+2023-10,453,sa,13135,observed,historical,mrts,2023,105,12
+2023-11,453,sa,13328,observed,historical,mrts,2023,105,13
+2023-12,453,sa,13137,observed,historical,mrts,2023,105,14
+2023-01,454,sa,99743,observed,historical,mrts,2023,106,3
+2023-02,454,sa,100283,observed,historical,mrts,2023,106,4
+2023-03,454,sa,99868,observed,historical,mrts,2023,106,5
+2023-04,454,sa,101762,observed,historical,mrts,2023,106,6
+2023-05,454,sa,102469,observed,historical,mrts,2023,106,7
+2023-06,454,sa,102661,observed,historical,mrts,2023,106,8
+2023-07,454,sa,104684,observed,historical,mrts,2023,106,9
+2023-08,454,sa,103920,observed,historical,mrts,2023,106,10
+2023-09,454,sa,104743,observed,historical,mrts,2023,106,11
+2023-10,454,sa,104528,observed,historical,mrts,2023,106,12
+2023-11,454,sa,104253,observed,historical,mrts,2023,106,13
+2023-12,454,sa,106590,observed,historical,mrts,2023,106,14
+2023-01,722,sa,81068,observed,historical,mrts,2023,109,3
+2023-02,722,sa,78417,observed,historical,mrts,2023,109,4
+2023-03,722,sa,78269,observed,historical,mrts,2023,109,5
+2023-04,722,sa,78022,observed,historical,mrts,2023,109,6
+2023-05,722,sa,78552,observed,historical,mrts,2023,109,7
+2023-06,722,sa,78979,observed,historical,mrts,2023,109,8
+2023-07,722,sa,79404,observed,historical,mrts,2023,109,9
+2023-08,722,sa,79322,observed,historical,mrts,2023,109,10
+2023-09,722,sa,79889,observed,historical,mrts,2023,109,11
+2023-10,722,sa,79946,observed,historical,mrts,2023,109,12
+2023-11,722,sa,80776,observed,historical,mrts,2023,109,13
+2023-12,722,sa,81113,observed,historical,mrts,2023,109,14
+2026-10,total,nsa,761378,observed,advance,marts,Table 1.,12,5
+2026-10,total,sa,748220,observed,advance,marts,Table 1.,12,10
+2026-09,total,nsa,728961,observed,preliminary,marts,Table 1.,12,6
+2026-09,total,sa,746637,observed,preliminary,marts,Table 1.,12,11
+2026-08,total,nsa,751781,observed,revised,marts,Table 1.,12,7
+2026-08,total,sa,740502,observed,revised,marts,Table 1.,12,12
+2025-10,total,nsa,712145,observed,revised,marts,Table 1.,12,8
+2025-10,total,sa,700427,observed,revised,marts,Table 1.,12,13
+2025-09,total,nsa,680630,observed,revised,marts,Table 1.,12,9
+2025-09,total,sa,700614,observed,revised,marts,Table 1.,12,14
+2026-10,_retail,nsa,665298,observed,advance,marts,Table 1.,17,5
+2026-10,_retail,sa,655299,observed,advance,marts,Table 1.,17,10
+2026-09,_retail,nsa,637194,observed,preliminary,marts,Table 1.,17,6
+2026-09,_retail,sa,653943,observed,preliminary,marts,Table 1.,17,11
+2026-08,_retail,nsa,656992,observed,revised,marts,Table 1.,17,7
+2026-08,_retail,sa,648652,observed,revised,marts,Table 1.,17,12
+2025-10,_retail,nsa,623604,observed,revised,marts,Table 1.,17,8
+2025-10,_retail,sa,613622,observed,revised,marts,Table 1.,17,13
+2025-09,_retail,nsa,595443,observed,revised,marts,Table 1.,17,9
+2025-09,_retail,sa,613777,observed,revised,marts,Table 1.,17,14
+2026-10,441,nsa,136152,observed,advance,marts,Table 1.,20,5
+2026-10,441,sa,136994,observed,advance,marts,Table 1.,20,10
+2026-09,441,nsa,137375,observed,preliminary,marts,Table 1.,20,6
+2026-09,441,sa,139228,observed,preliminary,marts,Table 1.,20,11
+2026-08,441,nsa,145476,observed,revised,marts,Table 1.,20,7
+2026-08,441,sa,139501,observed,revised,marts,Table 1.,20,12
+2025-10,441,nsa,134601,observed,revised,marts,Table 1.,20,8
+2025-10,441,sa,135216,observed,revised,marts,Table 1.,20,13
+2025-09,441,nsa,133736,observed,revised,marts,Table 1.,20,9
+2025-09,441,sa,136345,observed,revised,marts,Table 1.,20,14
+2026-10,442,nsa,10706,observed,advance,marts,Table 1.,25,5
+2026-10,442,sa,10685,observed,advance,marts,Table 1.,25,10
+2026-09,442,nsa,11106,observed,preliminary,marts,Table 1.,25,6
+2026-09,442,sa,10931,observed,preliminary,marts,Table 1.,25,11
+2026-08,442,nsa,10745,observed,revised,marts,Table 1.,25,7
+2026-08,442,sa,10555,observed,revised,marts,Table 1.,25,12
+2025-10,442,nsa,10475,observed,revised,marts,Table 1.,25,8
+2025-10,442,sa,10423,observed,revised,marts,Table 1.,25,13
+2025-09,442,nsa,10232,observed,revised,marts,Table 1.,25,9
+2025-09,442,sa,10151,observed,revised,marts,Table 1.,25,14
+2026-10,443,nsa,7537,observed,advance,marts,Table 1.,29,5
+2026-10,443,sa,7818,observed,advance,marts,Table 1.,29,10
+2026-09,443,nsa,7519,observed,preliminary,marts,Table 1.,29,6
+2026-09,443,sa,7816,observed,preliminary,marts,Table 1.,29,11
+2026-08,443,nsa,7757,observed,revised,marts,Table 1.,29,7
+2026-08,443,sa,7796,observed,revised,marts,Table 1.,29,12
+2025-10,443,nsa,7005,observed,revised,marts,Table 1.,29,8
+2025-10,443,sa,7259,observed,revised,marts,Table 1.,29,13
+2025-09,443,nsa,6942,observed,revised,marts,Table 1.,29,9
+2025-09,443,sa,7179,observed,revised,marts,Table 1.,29,14
+2026-10,444,nsa,45914,observed,advance,marts,Table 1.,32,5
+2026-10,444,sa,44164,observed,advance,marts,Table 1.,32,10
+2026-09,444,nsa,43898,observed,preliminary,marts,Table 1.,32,6
+2026-09,444,sa,43959,observed,preliminary,marts,Table 1.,32,11
+2026-08,444,nsa,44578,observed,revised,marts,Table 1.,32,7
+2026-08,444,sa,44305,observed,revised,marts,Table 1.,32,12
+2025-10,444,nsa,44245,observed,revised,marts,Table 1.,32,8
+2025-10,444,sa,41826,observed,revised,marts,Table 1.,32,13
+2025-09,444,nsa,42128,observed,revised,marts,Table 1.,32,9
+2025-09,444,sa,42241,observed,revised,marts,Table 1.,32,14
+2026-10,445,nsa,86408,observed,advance,marts,Table 1.,35,5
+2026-10,445,sa,85057,observed,advance,marts,Table 1.,35,10
+2026-09,445,nsa,83208,observed,preliminary,marts,Table 1.,35,6
+2026-09,445,sa,85211,observed,preliminary,marts,Table 1.,35,11
+2026-08,445,nsa,85435,observed,revised,marts,Table 1.,35,7
+2026-08,445,sa,84709,observed,revised,marts,Table 1.,35,12
+2025-10,445,nsa,85352,observed,revised,marts,Table 1.,35,8
+2025-10,445,sa,84309,observed,revised,marts,Table 1.,35,13
+2025-09,445,nsa,81532,observed,revised,marts,Table 1.,35,9
+2025-09,445,sa,84230,observed,revised,marts,Table 1.,35,14
+2026-10,446,nsa,41940,observed,advance,marts,Table 1.,39,5
+2026-10,446,sa,40327,observed,advance,marts,Table 1.,39,10
+2026-09,446,nsa,40096,observed,preliminary,marts,Table 1.,39,6
+2026-09,446,sa,39738,observed,preliminary,marts,Table 1.,39,11
+2026-08,446,nsa,38645,observed,revised,marts,Table 1.,39,7
+2026-08,446,sa,39353,observed,revised,marts,Table 1.,39,12
+2025-10,446,nsa,41871,observed,revised,marts,Table 1.,39,8
+2025-10,446,sa,39915,observed,revised,marts,Table 1.,39,13
+2025-09,446,nsa,40289,observed,revised,marts,Table 1.,39,9
+2025-09,446,sa,40128,observed,revised,marts,Table 1.,39,14
+2026-10,447,nsa,71970,observed,advance,marts,Table 1.,42,5
+2026-10,447,sa,68608,observed,advance,marts,Table 1.,42,10
+2026-09,447,nsa,69135,observed,preliminary,marts,Table 1.,42,6
+2026-09,447,sa,67581,observed,preliminary,marts,Table 1.,42,11
+2026-08,447,nsa,68373,observed,revised,marts,Table 1.,42,7
+2026-08,447,sa,63781,observed,revised,marts,Table 1.,42,12
+2025-10,447,nsa,55322,observed,revised,marts,Table 1.,42,8
+2025-10,447,sa,52637,observed,revised,marts,Table 1.,42,13
+2025-09,447,nsa,54234,observed,revised,marts,Table 1.,42,9
+2025-09,447,sa,53119,observed,revised,marts,Table 1.,42,14
+2026-10,448,nsa,25724,observed,advance,marts,Table 1.,45,5
+2026-10,448,sa,26377,observed,advance,marts,Table 1.,45,10
+2026-09,448,nsa,23723,observed,preliminary,marts,Table 1.,45,6
+2026-09,448,sa,26575,observed,preliminary,marts,Table 1.,45,11
+2026-08,448,nsa,27309,observed,revised,marts,Table 1.,45,7
+2026-08,448,sa,26505,observed,revised,marts,Table 1.,45,12
+2025-10,448,nsa,24528,observed,revised,marts,Table 1.,45,8
+2025-10,448,sa,25576,observed,revised,marts,Table 1.,45,13
+2025-09,448,nsa,22369,observed,revised,marts,Table 1.,45,9
+2025-09,448,sa,25130,observed,revised,marts,Table 1.,45,14
+2026-10,451,nsa,8228,observed,advance,marts,Table 1.,53,5
+2026-10,451,sa,8670,observed,advance,marts,Table 1.,53,10
+2026-09,451,nsa,8267,observed,preliminary,marts,Table 1.,53,6
+2026-09,451,sa,8730,observed,preliminary,marts,Table 1.,53,11
+2026-08,451,nsa,9503,observed,revised,marts,Table 1.,53,7
+2026-08,451,sa,8734,observed,revised,marts,Table 1.,53,12
+2025-10,451,nsa,7694,observed,revised,marts,Table 1.,53,8
+2025-10,451,sa,8099,observed,revised,marts,Table 1.,53,13
+2025-09,451,nsa,7456,observed,revised,marts,Table 1.,53,9
+2025-09,451,sa,7873,observed,revised,marts,Table 1.,53,14
+2026-10,452,nsa,83489,observed,advance,marts,Table 1.,55,5
+2026-10,452,sa,81828,observed,advance,marts,Table 1.,55,10
+2026-09,452,nsa,77139,observed,preliminary,marts,Table 1.,55,6
+2026-09,452,sa,81718,observed,preliminary,marts,Table 1.,55,11
+2026-08,452,nsa,83624,observed,revised,marts,Table 1.,55,7
+2026-08,452,sa,81825,observed,revised,marts,Table 1.,55,12
+2025-10,452,nsa,79499,observed,revised,marts,Table 1.,55,8
+2025-10,452,sa,79029,observed,revised,marts,Table 1.,55,13
+2025-09,452,nsa,73234,observed,revised,marts,Table 1.,55,9
+2025-09,452,sa,78297,observed,revised,marts,Table 1.,55,14
+2026-10,453,nsa,18066,observed,advance,marts,Table 1.,62,5
+2026-10,453,sa,16539,observed,advance,marts,Table 1.,62,10
+2026-09,453,nsa,15755,observed,preliminary,marts,Table 1.,62,6
+2026-09,453,sa,15795,observed,preliminary,marts,Table 1.,62,11
+2026-08,453,nsa,16466,observed,revised,marts,Table 1.,62,7
+2026-08,453,sa,16288,observed,revised,marts,Table 1.,62,12
+2025-10,453,nsa,15733,observed,revised,marts,Table 1.,62,8
+2025-10,453,sa,14598,observed,revised,marts,Table 1.,62,13
+2025-09,453,nsa,14314,observed,revised,marts,Table 1.,62,9
+2025-09,453,sa,14335,observed,revised,marts,Table 1.,62,14
+2026-10,454,nsa,129164,observed,advance,marts,Table 1.,64,5
+2026-10,454,sa,128232,observed,advance,marts,Table 1.,64,10
+2026-09,454,nsa,119973,observed,preliminary,marts,Table 1.,64,6
+2026-09,454,sa,126661,observed,preliminary,marts,Table 1.,64,11
+2026-08,454,nsa,119081,observed,revised,marts,Table 1.,64,7
+2026-08,454,sa,125300,observed,revised,marts,Table 1.,64,12
+2025-10,454,nsa,117279,observed,revised,marts,Table 1.,64,8
+2025-10,454,sa,114735,observed,revised,marts,Table 1.,64,13
+2025-09,454,nsa,108977,observed,revised,marts,Table 1.,64,9
+2025-09,454,sa,114749,observed,revised,marts,Table 1.,64,14
+2026-10,722,nsa,96080,observed,advance,marts,Table 1.,67,5
+2026-10,722,sa,92921,observed,advance,marts,Table 1.,67,10
+2026-09,722,nsa,91767,observed,preliminary,marts,Table 1.,67,6
+2026-09,722,sa,92694,observed,preliminary,marts,Table 1.,67,11
+2026-08,722,nsa,94789,observed,revised,marts,Table 1.,67,7
+2026-08,722,sa,91850,observed,revised,marts,Table 1.,67,12
+2025-10,722,nsa,88541,observed,revised,marts,Table 1.,67,8
+2025-10,722,sa,86805,observed,revised,marts,Table 1.,67,13
+2025-09,722,nsa,85187,observed,revised,marts,Table 1.,67,9
+2025-09,722,sa,86837,observed,revised,marts,Table 1.,67,14

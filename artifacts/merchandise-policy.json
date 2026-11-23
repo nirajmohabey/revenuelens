@@ -1,0 +1,120 @@
+{
+  "version": "retail-movement-v1.0.0",
+  "note": "PADS is physical cushion merchandise and retained. Other listed codes are reviewed service/adjustment/sample exclusions. All other codes remain eligible under sign and collision rules.",
+  "observedCodeDescriptions": [
+    {
+      "code": "ADJUST",
+      "description": "Adjustment by john on 26/01/2010 16",
+      "rows": 38,
+      "amountUnits": 18033300
+    },
+    {
+      "code": "ADJUST",
+      "description": "Adjustment by john on 26/01/2010 17",
+      "rows": 26,
+      "amountUnits": 57629600
+    },
+    {
+      "code": "ADJUST",
+      "description": "Adjustment by Peter on 24/05/2010 1",
+      "rows": 3,
+      "amountUnits": -7310500
+    },
+    {
+      "code": "ADJUST2",
+      "description": "Adjustment by Peter on Jun 25 2010 ",
+      "rows": 3,
+      "amountUnits": 7310500
+    },
+    {
+      "code": "AMAZONFEE",
+      "description": "AMAZON FEE",
+      "rows": 43,
+      "amountUnits": -2607635800
+    },
+    {
+      "code": "B",
+      "description": "Adjust bad debt",
+      "rows": 6,
+      "amountUnits": -1476140800
+    },
+    {
+      "code": "BANK CHARGES",
+      "description": "Bank Charges",
+      "rows": 96,
+      "amountUnits": -334936690
+    },
+    {
+      "code": "BANK CHARGES",
+      "description": " Bank Charges",
+      "rows": 6,
+      "amountUnits": -20689600
+    },
+    {
+      "code": "C2",
+      "description": "CARRIAGE",
+      "rows": 279,
+      "amountUnits": 133860000
+    },
+    {
+      "code": "C2",
+      "description": "",
+      "rows": 3,
+      "amountUnits": 0
+    },
+    {
+      "code": "CRUK",
+      "description": "CRUK Commission",
+      "rows": 16,
+      "amountUnits": -79334300
+    },
+    {
+      "code": "D",
+      "description": "Discount",
+      "rows": 177,
+      "amountUnits": -134845400
+    },
+    {
+      "code": "DOT",
+      "description": "DOTCOM POSTAGE",
+      "rows": 1444,
+      "amountUnits": 3226474700
+    },
+    {
+      "code": "DOT",
+      "description": "",
+      "rows": 2,
+      "amountUnits": 0
+    },
+    {
+      "code": "M",
+      "description": "Manual",
+      "rows": 1426,
+      "amountUnits": -827812700
+    },
+    {
+      "code": "PADS",
+      "description": "PADS TO MATCH ALL CUSHIONS",
+      "rows": 19,
+      "amountUnits": -365830
+    },
+    {
+      "code": "POST",
+      "description": "POSTAGE",
+      "rows": 2115,
+      "amountUnits": 1123410000
+    },
+    {
+      "code": "POST",
+      "description": "",
+      "rows": 7,
+      "amountUnits": 0
+    },
+    {
+      "code": "S",
+      "description": "SAMPLES",
+      "rows": 104,
+      "amountUnits": -60658000
+    }
+  ]
+}

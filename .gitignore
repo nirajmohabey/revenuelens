@@ -1,0 +1,22 @@
+# Downloaded immutable source and local analytical database (rebuild from manifest).
+data/raw/
+data/*.sqlite
+data/*.sqlite-*
+data/*.sqlite3
+data/*.sqlite3-*
+data/*.db
+data/*.db-*
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+.env
+.env.*
+!.env.example
+*.tar.gz
+*.zip
+# Keep generated report JSON, small CSVs, provenance and validation artifacts.
+# The full BI fact extract is reproducible locally and exceeds common Git limits.
+artifacts/FactInvoiceLine.csv
+.DS_Store
+Thumbs.db
