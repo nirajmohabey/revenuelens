@@ -4,7 +4,7 @@ RevenueLens has separate source and hosting channels:
 
 | Channel | Location | Audience and purpose |
 | --- | --- | --- |
-| Standalone source | Local checkout; [created public repository](https://github.com/nirajmohabey/revenuelens) | Full application, pipelines, snapshots, methods, and checks are present locally. The November 23 publication check found the GitHub repository still empty; its source upload is pending the owner's workflow-permission choice. |
+| Standalone source | Local checkout; [public repository](https://github.com/nirajmohabey/revenuelens) | Full application, pipelines, snapshots, methods, stakeholder handoff, and checks are published. Initial commit `0fd06f0` passed [GitHub Actions run 45318929950](https://github.com/nirajmohabey/revenuelens/actions/runs/45318929950) after the owner authorized workflow access. |
 | Portfolio demo | [Current US report](https://portfolio-niraj-mohabeys-projects.vercel.app/revenuelens/demo/index.html) | Public demonstration with the separate [historical lab](https://portfolio-niraj-mohabeys-projects.vercel.app/revenuelens/demo/lab.html). |
 | Private Site | [RevenueLens retail intelligence](https://revenuelens-retail-intelligence.flowerycider4.chatgpt.site) | Owner-only hosted Site, requiring authorized ChatGPT sign-in. Public source publication does not change this access policy. |
 
@@ -37,3 +37,5 @@ npm run serve
 ```
 
 The checked-in jsPDF browser bundle is local and loaded only by Download PDF. Its MIT license, bundled notices, package version, and integrity are preserved in `web/vendor/` and copied to `dist/vendor/` by the normal build.
+
+For repository-based Vercel deployments, `vercel.json` explicitly selects the Other framework preset and serves the `npm run build` output in `dist/`. This prevents the offline Python pipeline requirements from being interpreted as a Python web application. The owner-private Site retains its separate hosting manifest and access policy.
